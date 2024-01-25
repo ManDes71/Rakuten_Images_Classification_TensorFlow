@@ -27,7 +27,7 @@ import pickle
 import tensorflow as tf
 from tensorflow.keras.utils import to_categorical
 
-import Bibli_DataScience_2 as ds
+import Bibli_DataScience_3_2 as ds
 
 
 
@@ -242,7 +242,7 @@ class DS_CNN(ds.DS_Model):
         
     
      def get_image(self,index_im):
-        folder_path = DOSSIER_IMAGES_TRAIN
+        folder_path = ds.get_RACINE_IMAGES()
         # Chemin de l'image
         filename = self.__df.nom_image[index_im]
         filepath = os.path.join(folder_path, filename)
@@ -478,7 +478,7 @@ class DS_INCEPTION(DS_CNN):
         
         self.set_BATCH_SIZE(16)
 
-     def create_modele(self,freeze):
+     def create_modele(self,freeze=0):
         model = Sequential()
         if freeze > 0 :
             i=0
@@ -518,7 +518,7 @@ class DS_EfficientNetB1(DS_CNN):
         self.set_REPORT_LIBELLE("EfficientNetB1 5000-2000 SIZE400 DEFREEZE  DR40-CC1024-CC1024-DR40")
         self.set_BATCH_SIZE(16)
 
-     def create_modele(self,freeze):
+     def create_modele(self,freeze=0):
         model = Sequential()
         if freeze > 0 :
             i=0
@@ -559,7 +559,7 @@ class DS_VGG16(DS_CNN):
        
         self.set_BATCH_SIZE(32)
 
-     def create_modele(self,freeze):
+     def create_modele(self,freeze=0):
         model = Sequential()
         if freeze > 0 :
             i=0
@@ -587,7 +587,7 @@ class DS_VGG16(DS_CNN):
         return model         
 class DS_RESNET50(DS_CNN):     
 
-     def __init__(self, nom_modele):
+     def __init__(self, nom_modele=0):
         super().__init__(nom_modele)
             
         self.__nom_modele = nom_modele
@@ -643,7 +643,7 @@ class DS_VGG19(DS_CNN):
        
         self.set_BATCH_SIZE(16)
 
-     def create_modele(self,freeze):
+     def create_modele(self,freeze=0):
         model = Sequential()
         if freeze > 0 :
             i=0
@@ -686,7 +686,7 @@ class DS_Xception(DS_CNN):
         self.set_BATCH_SIZE(8)
         print(self.__base_model.summary())
 
-     def create_modele(self,freeze):
+     def create_modele(self,freeze=0):
         model = Sequential()
         if freeze > 0 :
             i=0

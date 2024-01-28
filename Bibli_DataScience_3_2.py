@@ -30,7 +30,7 @@ import json
 #config.read('Rakuten_config_3.ini')  # dell
 #config.read('Rakuten_config_2.ini')  # shadow
 config = configparser.ConfigParser()
-config.read('/content/Rakuten_Images_Classification_TensorFlow/Rakuten_config_colab.ini')   # Colab
+config.read('/content/Rakuten_Images_classification_TensorFlow/Rakuten_config_colab.ini')   # Colab
 #config.read('C:\\Users\\Shadow\\anaconda3\\envs\\tf\\PROJET\\Rakuten_config_2.ini')
 #config.read('E:\\Manuel\\PROJET\\Rakuten_config.ini')
 

@@ -51,9 +51,9 @@ def get_RACINE_SAUVEGARDE() :
 DATAFRAME_X = get_RACINE_INPUT() + 'X_train_update.csv'
 DATAFRAME_X_TEST = get_RACINE_INPUT() + 'X_test_update.csv'
 DATAFRAME_Y = get_RACINE_INPUT() + 'Y_train_CVw08PX.csv'
-# DATAFRAME_LANGUE = get_RACINE_INPUT() + 'df_langue.csv'
+DATAFRAME_LANGUE = get_RACINE_INPUT() + 'df_langue.csv'
 DATAFRAME_NOMENCLATURE = get_RACINE_INPUT() + 'NOMENCLATURE.csv'
-# DATAFRAME_STOPWORDS = get_RACINE_INPUT() + 'stopwords_FR_02.csv'
+DATAFRAME_STOPWORDS = get_RACINE_INPUT() + 'stopwords_FR_02.csv'
 
 print("section : ",config.sections())
 DOSSIER_IMAGES_TRAIN = get_RACINE_IMAGES() + 'image_train'

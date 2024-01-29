@@ -48,9 +48,9 @@ def get_RACINE_SAUVEGARDE() :
 DATAFRAME_X = get_RACINE_DOSSIER() + 'X_train_update.csv'
 DATAFRAME_X_TEST = get_RACINE_DOSSIER() + 'X_test_update.csv'
 DATAFRAME_Y = get_RACINE_DOSSIER() + 'Y_train_CVw08PX.csv'
-DATAFRAME_LANGUE = get_RACINE_DOSSIER() + 'df_langue.csv'
+# DATAFRAME_LANGUE = get_RACINE_DOSSIER() + 'df_langue.csv'
 DATAFRAME_NOMENCLATURE = get_RACINE_DOSSIER() + 'NOMENCLATURE.csv'
-DATAFRAME_STOPWORDS = get_RACINE_DOSSIER() + 'stopwords_FR_02.csv'
+# DATAFRAME_STOPWORDS = get_RACINE_DOSSIER() + 'stopwords_FR_02.csv'
 #    ***********    DEL    *****************
 #RACINE_DOSSIER = 'C:\\Users\\DESPLANCHES.DOMAMP\\Datascientest\\'
 #RACINE_IMAGES = 'C:\\Users\\DESPLANCHES.DOMAMP\\Datascientest\\images\\images\\'

@@ -36,6 +36,9 @@ config.read('/content/Rakuten_Images_classification_TensorFlow/Rakuten_config_co
 
 def get_RACINE_DOSSIER() :
     return config['DOSSIER']['RACINE_DOSSIER']
+
+def get_RACINE_INPUT() :
+    return config['DOSSIER']['RACINE_INPUT']
     
 def get_RACINE_IMAGES() :
     return config['DOSSIER']['RACINE_IMAGES']    
@@ -45,26 +48,12 @@ def get_RACINE_SAUVEGARDE() :
 
 
 
-DATAFRAME_X = get_RACINE_DOSSIER() + 'X_train_update.csv'
-DATAFRAME_X_TEST = get_RACINE_DOSSIER() + 'X_test_update.csv'
-DATAFRAME_Y = get_RACINE_DOSSIER() + 'Y_train_CVw08PX.csv'
-# DATAFRAME_LANGUE = get_RACINE_DOSSIER() + 'df_langue.csv'
-DATAFRAME_NOMENCLATURE = get_RACINE_DOSSIER() + 'NOMENCLATURE.csv'
-# DATAFRAME_STOPWORDS = get_RACINE_DOSSIER() + 'stopwords_FR_02.csv'
-#    ***********    DEL    *****************
-#RACINE_DOSSIER = 'C:\\Users\\DESPLANCHES.DOMAMP\\Datascientest\\'
-#RACINE_IMAGES = 'C:\\Users\\DESPLANCHES.DOMAMP\\Datascientest\\images\\images\\'
-#RACINE_SAUVEGARDE = 'C:\\Users\\DESPLANCHES.DOMAMP\\Datascientest\\fichiers\\'
-
-#    ***********    SHADOW   *****************
-#RACINE_DOSSIER = 'C:\\Users\\Shadow\\anaconda3\\envs\\tf\\PROJET\\'
-#RACINE_IMAGES = 'C:\\Users\\Shadow\\anaconda3\\envs\\tf\\PROJET\\images\\'
-#RACINE_SAUVEGARDE = 'C:\\Users\\Shadow\\anaconda3\\envs\\tf\\PROJET\\fichiers\\'
-
-#    ***********    PC SIMON    *****************
-#RACINE_DOSSIER = 'E:\\Manuel\\PROJET\\'
-#RACINE_IMAGES = 'E:\\Manuel\\PROJET\\images\\'
-#RACINE_SAUVEGARDE = 'E:\\Manuel\\PROJET\\fichiers\\'
+DATAFRAME_X = get_RACINE_INPUT() + 'X_train_update.csv'
+DATAFRAME_X_TEST = get_RACINE_INPUT() + 'X_test_update.csv'
+DATAFRAME_Y = get_RACINE_INPUT() + 'Y_train_CVw08PX.csv'
+# DATAFRAME_LANGUE = get_RACINE_INPUT() + 'df_langue.csv'
+DATAFRAME_NOMENCLATURE = get_RACINE_INPUT() + 'NOMENCLATURE.csv'
+# DATAFRAME_STOPWORDS = get_RACINE_INPUT() + 'stopwords_FR_02.csv'
 
 print("section : ",config.sections())
 DOSSIER_IMAGES_TRAIN = get_RACINE_IMAGES() + 'image_train'

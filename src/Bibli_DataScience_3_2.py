@@ -26,14 +26,10 @@ import json
 #    return configparser.__v
 
 
-#config.read('Rakuten_config.ini')   # Simon
-#config.read('Rakuten_config_3.ini')  # dell
-#config.read('Rakuten_config_2.ini')  # shadow
+
 config = configparser.ConfigParser()
-config.read('../Rakuten_config_colab.ini')   # Colab
-#config.read('Rakuten_config.ini')   # Colab
-#config.read('C:\\Users\\Shadow\\anaconda3\\envs\\tf\\PROJET\\Rakuten_config_2.ini')
-#config.read('E:\\Manuel\\PROJET\\Rakuten_config.ini')
+#config.read('Rakuten_config_colab.ini')   # Colab
+config.read('E:/Manuel/PROJET/Rakuten_Images_Classification_TensorFlow/Rakuten_config.ini')   # Colab
 
 def get_RACINE_DOSSIER() :
     return config['DOSSIER']['RACINE_DOSSIER']
@@ -44,8 +40,8 @@ def get_RACINE_IMAGES() :
 def get_RACINE_SAUVEGARDE() :
     return config['DOSSIER']['RACINE_SAUVEGARDE']
 
-print(get_RACINE_DOSSIER())
-print( get_RACINE_IMAGES())
+#print(get_RACINE_DOSSIER())
+#print( get_RACINE_IMAGES())
 
 DATAFRAME_X = get_RACINE_DOSSIER() + 'X_train_update.csv'
 DATAFRAME_X_TEST = get_RACINE_DOSSIER() + 'X_test_update.csv'

@@ -88,10 +88,10 @@ class DS_CNN(ds.DS_Model):
      def set_REPORT_LIBELLE(self,libelle):
         self.__report_LIBBELLE = libelle      
       
-     def charger_X_Y(self):
-        df=self. get_DF() 
-        self.__X=np.array(df.filepath)
-        self.__y=np.array(df.prdtypecode) 
+#     def charger_X_Y(self):
+#        df=self. get_DF() 
+#        self.__X=np.array(df.filepath)
+#        self.__y=np.array(df.prdtypecode) 
         
      def __get_strategie_max(self,Y,max_value):
         new_class_counts = pd.Series(Y).value_counts()
@@ -110,50 +110,50 @@ class DS_CNN(ds.DS_Model):
             sampling_strategy[key] = min_value
         
         return sampling_strategy   
-      
-     def train_test_split(self,train_size=0.8, random_state=1234, 
-                           RandUnderSampl = True,  RandomOverSampl = True): 
-        if self.__y.shape[-1] == 0 :
-             print("Chargement X,Y")
-             self.charger_X_Y()
-             
-          
-        if RandUnderSampl :
-             print("Ramdom under sampling : MAX ",self._NB_PAR_LABEL_MAX)
-             print("y : ",self.__y.shape) 
-             sampling_strategy = self.__get_strategie_max(self.__y,self._NB_PAR_LABEL_MAX)
-             print("Répartition :")
-             print(sampling_strategy)
-             self.__XX=self.__X.reshape(-1,1)
-             self.__yy=self.__y.reshape(-1,1)
-             rUs = RandomUnderSampler(sampling_strategy=sampling_strategy)
-             X_ru, y_ru = rUs.fit_resample(self.__XX, self.__yy  )
-        else:
-            X_ru = self.__X.copy()
-            y_ru = self.__y.copy()
-            
-        X_train_ru, X_test_path, y_train_ru, y_test = train_test_split(X_ru, y_ru, train_size=train_size,
-                                    random_state=random_state, stratify=y_ru,shuffle=True)
-        
-        if RandomOverSampl :
-            print("Ramdom over sampling : MIN ",self._NB_PAR_LABEL_MIN) 
-            sampling_strategy = self.__get_strategie_min(y_train_ru,self._NB_PAR_LABEL_MIN)
-            print("Répartition :")
-            print(sampling_strategy)
-            rOs = RandomOverSampler(sampling_strategy=sampling_strategy)
-            X_train_path, y_train = rOs.fit_resample(X_train_ru, y_train_ru)
-            X_train_path, y_train = shuffle(X_train_path, y_train, random_state=42)
-        else:
-            X_train_path = X_train_ru.copy()
-            y_train = y_train_ru.copy
-
-        X_train_path=X_train_path.reshape(-1,)
-        X_test_path=X_test_path.reshape(-1,)
-        ds.save_ndarray(X_train_path,self.__nom_modele+'_X_train')
-        ds.save_ndarray(X_test_path,self.__nom_modele+'_X_test')
-            
-        return X_train_path,X_test_path,y_train,y_test
-        
+#     
+#     def train_test_split(self,train_size=0.8, random_state=1234, 
+#                           RandUnderSampl = True,  RandomOverSampl = True): 
+#        if self.__y.shape[-1] == 0 :
+#             print("Chargement X,Y")
+#             self.charger_X_Y()
+#             
+#          
+#        if RandUnderSampl :
+#             print("Ramdom under sampling : MAX ",self._NB_PAR_LABEL_MAX)
+#             print("y : ",self.__y.shape) 
+#             sampling_strategy = self.__get_strategie_max(self.__y,self._NB_PAR_LABEL_MAX)
+#             print("Répartition :")
+#             print(sampling_strategy)
+#             self.__XX=self.__X.reshape(-1,1)
+#             self.__yy=self.__y.reshape(-1,1)
+#             rUs = RandomUnderSampler(sampling_strategy=sampling_strategy)
+#             X_ru, y_ru = rUs.fit_resample(self.__XX, self.__yy  )
+#        else:
+#            X_ru = self.__X.copy()
+#            y_ru = self.__y.copy()
+#            
+#        X_train_ru, X_test_path, y_train_ru, y_test = train_test_split(X_ru, y_ru, train_size=train_size,
+#                                    random_state=random_state, stratify=y_ru,shuffle=True)
+#        
+#        if RandomOverSampl :
+#            print("Ramdom over sampling : MIN ",self._NB_PAR_LABEL_MIN) 
+#            sampling_strategy = self.__get_strategie_min(y_train_ru,self._NB_PAR_LABEL_MIN)
+#            print("Répartition :")
+#            print(sampling_strategy)
+#            rOs = RandomOverSampler(sampling_strategy=sampling_strategy)
+#            X_train_path, y_train = rOs.fit_resample(X_train_ru, y_train_ru)
+#            X_train_path, y_train = shuffle(X_train_path, y_train, random_state=42)
+#        else:
+#            X_train_path = X_train_ru.copy()
+#            y_train = y_train_ru.copy
+#
+#        X_train_path=X_train_path.reshape(-1,)
+#        X_test_path=X_test_path.reshape(-1,)
+#        ds.save_ndarray(X_train_path,self.__nom_modele+'_X_train')
+#        ds.save_ndarray(X_test_path,self.__nom_modele+'_X_test')
+#            
+#        return X_train_path,X_test_path,y_train,y_test
+#                
      #     Train       : "None" , "Save"  , "Load" ,"Weight"        =>   "Save" : on enregistre les données d'entrainement
      #                                                              =>   "Load" : on charge les données d'entrainement      
      #        
@@ -170,7 +170,10 @@ class DS_CNN(ds.DS_Model):
             label_encoder = ds.load_ndarray(self.__nom_modele+'_label_encoder')
             
             return X_train, X_test, y_train_avant, y_test_avant
-            
+        
+        print("Train_Test_Split_ ")  
+        filep =  self.get_DF()['filepath'][:1].values      
+        print(filep[:5])        
             
         X_train_avant, X_test_avant, y_train_avant, y_test_avant = super().Train_Test_Split_(train_size, random_state)
       
@@ -186,6 +189,7 @@ class DS_CNN(ds.DS_Model):
         y_train=y_train.reshape(-1,1)
         X_test=X_test.reshape(-1,1)
         y_test=y_test.reshape(-1,1)
+        print(X_train[:5])
        
         if RandUnderSampl :
              print("Ramdom under sampling : MAX ",self._NB_PAR_LABEL_MAX)
@@ -217,9 +221,11 @@ class DS_CNN(ds.DS_Model):
             y_train = y_ru.copy()
             print("Train_Test_Split_4",y_train[:5])
 
+        y_test=y_test.ravel()
         X_train_path=X_train_path.reshape(-1,)
         X_test_path=X_test
         X_test_path=X_test_path.reshape(-1,)
+        print(X_train_path[:5])
         
         if fic == "Save" :
             print("Sauvegarde de jeu d'entrainement")
@@ -244,9 +250,9 @@ class DS_CNN(ds.DS_Model):
      def get_image(self,index_im):
         folder_path = ds.get_RACINE_IMAGES()
         # Chemin de l'image
-        filename = self.__df.nom_image[index_im]
+        filename = self.get_DF().nom_image[index_im]
         filepath = os.path.join(folder_path, filename)
-
+        print(filepath) 
         # Lecture du fichier
         im = tf.io.read_file(filepath)
 
@@ -274,9 +280,10 @@ class DS_CNN(ds.DS_Model):
 
      @tf.function
      def load_image(self,filepath, IMGSIZE):
+        print(filepath) 
         resize=(IMGSIZE,IMGSIZE) 
         im = tf.io.read_file(filepath)
-        im = tf.image.decode_png(im, channels=3)
+        im = tf.image.decode_jpeg(im, channels=3)
         return tf.image.resize(im, resize)
         
      def generate_dataset(self,X_train_path,X_test_path,y_train_Network,y_test_Network):
@@ -347,19 +354,26 @@ class DS_CNN(ds.DS_Model):
      @tf.autograph.experimental.do_not_convert
      def fit_modele(self,epochs,savefics=False,freeze = 0,newfit=True, RandUnderSampl = True,  RandomOverSampl = True,Train="None"):
         if newfit :
+            print("newfit")
             X_train_path,X_test_path,y_train,y_test = self.Train_Test_Split_(fic=Train, RandUnderSampl = RandUnderSampl,  RandomOverSampl = RandomOverSampl)
             #X_train_path,X_test_path,y_train,y_test = self.train_test_split()
             
-                     
+            print( y_train)
+            print(y_test)            
             y_train,y_test,label_encoder = self.preprossessing_Y(y_train,y_test)
+            print("**************")
+            print( y_train)
+            print(y_test)  
             self.set_labelencoder(label_encoder)
             dataset_train,dataset_test = self.generate_dataset(X_train_path,X_test_path,y_train,y_test)
+            self.test_generate_images(X_train_path)
             model = self.create_modele(freeze)  
             if Train == "Load"  or Train == "Weight" :
                 ds.load_model(model,self.__nom_modele+'_weight')
             self.__model = model  
             
         else:
+            print("load modele")
             model = self.__model  
             ds.load_model(model,self.__nom_modele+'_weight')   
             
@@ -517,6 +531,14 @@ class DS_EfficientNetB1(DS_CNN):
         self.set_REPORT_MODELE(nom_modele)
         self.set_REPORT_LIBELLE("EfficientNetB1 5000-2000 SIZE400 DEFREEZE  DR40-CC1024-CC1024-DR40")
         self.set_BATCH_SIZE(16)
+        #self.set_BATCH_SIZE(32)
+        #print(self.get_DF().info())
+        print("Test lecture image")
+        im=self.get_image(0)
+        print("Taille de l'image :", im.shape)
+
+        # Affichage du tensor
+        plt.imshow(im);
 
      def create_modele(self,freeze=0):
         model = Sequential()
@@ -594,9 +616,9 @@ class DS_RESNET50(DS_CNN):
         #ResNet50(include_top=False, pooling='avg', weights=resnet_weights_path)
         self.__base_model = ResNet50(weights='imagenet', pooling='avg',include_top=False,input_shape=(self._IMGSIZE,self._IMGSIZE,3))
         #print(dir(self.__base_model))
-        self.set_REPORT_ID("CNN34")
+        self.set_REPORT_ID("CNN120")
         self.set_REPORT_MODELE(nom_modele)
-        self.set_REPORT_LIBELLE("RESNET50 5000-2000 SIZE400 DEFREEZE  DR40-CC1024-CC1024-DR40")
+        self.set_REPORT_LIBELLE("RESNET50 Adam 4000-2000 SIZE400 DeFreeze  DR40-CC1024-CC1024-DR40")
        
         self.set_BATCH_SIZE(16)
 

@@ -29,7 +29,7 @@ import json
 
 config = configparser.ConfigParser()
 #config.read('Rakuten_config_colab.ini')   # Colab
-config.read('E:/Manuel/PROJET/Rakuten_Images_Classification_TensorFlow/Rakuten_config.ini')   # Colab
+config.read('D:/Manuel/PROJET/Rakuten_Images_Classification_TensorFlow/Rakuten_config.ini')   # Colab
 
 def get_RACINE_DOSSIER() :
     return config['DOSSIER']['RACINE_DOSSIER']
@@ -51,8 +51,8 @@ DATAFRAME_NOMENCLATURE = get_RACINE_DOSSIER() + 'NOMENCLATURE.csv'
 DATAFRAME_STOPWORDS = get_RACINE_DOSSIER() + 'stopwords_FR_02.csv'
 
 print("section : ",config.sections())
-DOSSIER_IMAGES_TRAIN = get_RACINE_IMAGES() + 'image_train'
-DOSSIER_IMAGES_TEST = get_RACINE_IMAGES() +  'image_test'
+DOSSIER_IMAGES_TRAIN = get_RACINE_IMAGES() 
+DOSSIER_IMAGES_TEST = get_RACINE_IMAGES()
 
 REPORT_40_ACC = get_RACINE_DOSSIER() + 'df_report_accuracy_40.csv'
 REPORT_40_VALACC = get_RACINE_DOSSIER() + 'df_report_val_acc_40.csv'
@@ -334,9 +334,11 @@ class DS_Model:
         
         self.__df['nom_image']=self.__df.apply(lambda row: "image_" +  str(row['imageid']) 
                                      + "_product_" + str(row['productid']) + ".jpg",axis=1)
-        
+        print("DOSSIER_IMAGES_TRAIN")
+        print(DOSSIER_IMAGES_TRAIN)
         folder_path = DOSSIER_IMAGES_TRAIN
         self.__df['filepath']=self.__df['nom_image'].apply(lambda x : os.path.join(folder_path, x))
+        print(self.__df['filepath'][:1].values)
         
         self.__stopwordFR = pd.read_csv(DATAFRAME_STOPWORDS)
         
@@ -413,13 +415,14 @@ class DS_Model:
      def Train_Test_Split_(self,train_size=0.8, random_state=1234): 
                            
         X = self.__df.drop('prdtypecode', axis=1)
-        y = self.__df['prdtypecode']                   
+        y = self.__df['prdtypecode']    
+           
     
         X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=train_size,
                                     random_state=random_state, stratify=y,shuffle=True)
                                     
         self.train_filter = self.__df.index.isin(X_train.index)
-        self.test_filter = self.__df.index.isin(X_test.index)                            
+        self.test_filter = self.__df.index.isin(X_test.index)    
                                     
         return X_train, X_test, y_train, y_test
      

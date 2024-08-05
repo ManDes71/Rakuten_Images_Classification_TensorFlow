@@ -109,7 +109,7 @@ def load_and_augment_image(filepath, resize=(IMGSIZE,IMGSIZE)):
     return tf.image.resize(image, resize)
 ```
 
-![augment_image()](\images\ReadMe\oversampling.png "augment_image()").
+![augment_image()](images/ReadMe/oversampling.png "augment_image()").
 
 # EfficientNetB1
 
@@ -555,7 +555,7 @@ ds.show_confusion_matrix(y_orig, y_pred)
 
 
     
-![png](output_16_0.png)
+![png](images/ReadMe/output_16_0.png)
     
 
 
@@ -672,7 +672,7 @@ ds.plot_fit(train_acc,val_acc,tloss,tvalloss)
 
 
     
-![png](output_21_0.png)
+![png](images/ReadMe/output_21_0.png)
     
 
 
@@ -1042,7 +1042,7 @@ ds.show_confusion_matrix(y_orig, y_pred)
 
 
     
-![png](output_24_0.png)
+![png](images/ReadMe/output_24_0.png)
     
 
 
@@ -1118,7 +1118,7 @@ ds.plot_fit(train_acc,val_acc,tloss,tvalloss)
 
 
     
-![png](output_29_0.png)
+![png](images/ReadMe/output_29_0.png)
     
 
 
@@ -1490,7 +1490,7 @@ ds.show_confusion_matrix(y_orig, y_pred)
 
 
     
-![png](output_32_0.png)
+![png](images/ReadMe/output_32_0.png)
     
 
 
@@ -1568,7 +1568,7 @@ ds.plot_fit(train_acc,val_acc,tloss,tvalloss)
 
 
     
-![png](output_37_0.png)
+![png](images/ReadMe/output_37_0.png)
     
 
 
@@ -1938,7 +1938,7 @@ ds.show_confusion_matrix(y_orig, y_pred)
 
 
     
-![png](output_40_0.png)
+![png](images/ReadMe/output_40_0.png)
     
 
 
@@ -2012,7 +2012,7 @@ ds.plot_fit(train_acc,val_acc,tloss,tvalloss)
 
 
     
-![png](output_45_0.png)
+![png](images/ReadMe/output_45_0.png)
     
 
 
@@ -2410,7 +2410,7 @@ ds.show_confusion_matrix(y_orig, y_pred)
 
 
     
-![png](output_48_0.png)
+![png](images/ReadMe/output_48_0.png)
     
 
 
@@ -2488,7 +2488,7 @@ ds.plot_fit(train_acc,val_acc,tloss,tvalloss)
 
 
     
-![png](output_53_0.png)
+![png](images/ReadMe/output_53_0.png)
     
 
 
@@ -2858,6 +2858,6 @@ ds.show_confusion_matrix(y_orig, y_pred)
 
 
     
-![png](output_56_0.png)
+![png](images/ReadMe/output_56_0.png)
     
 

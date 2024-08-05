@@ -109,7 +109,7 @@ def load_and_augment_image(filepath, resize=(IMGSIZE,IMGSIZE)):
     return tf.image.resize(image, resize)
 ```
 
-![augment_image()](images\ReadMe\oversampling.png "augment_image()").
+![augment_image()](\images\ReadMe\oversampling.png "augment_image()").
 
 # EfficientNetB1
 

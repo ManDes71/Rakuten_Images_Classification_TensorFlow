@@ -47,6 +47,10 @@ class DS_CNN(ds.DS_Model):
         self.__y_pred = []
         self.__X = np.array([])
         self.__y = np.array([])
+        self.__X_train_concate = np.array([]) # array pour la concatenation avant oversampling
+        self.__y_train_concate = np.array([]) # array pour la concatenation avant oversampling
+        self.__X_test_concate = np.array([]) # array pour la concatenation avant oversampling
+        self.__y_test_concate = np.array([]) # array pour la concatenation avant oversampling 
         self.__label_encoder = LabelEncoder()
         self.__report_ID = "CNN30"
         self.__report_MODELE = nom_modele
@@ -110,50 +114,7 @@ class DS_CNN(ds.DS_Model):
             sampling_strategy[key] = min_value
         
         return sampling_strategy   
-#     
-#     def train_test_split(self,train_size=0.8, random_state=1234, 
-#                           RandUnderSampl = True,  RandomOverSampl = True): 
-#        if self.__y.shape[-1] == 0 :
-#             print("Chargement X,Y")
-#             self.charger_X_Y()
-#             
-#          
-#        if RandUnderSampl :
-#             print("Ramdom under sampling : MAX ",self._NB_PAR_LABEL_MAX)
-#             print("y : ",self.__y.shape) 
-#             sampling_strategy = self.__get_strategie_max(self.__y,self._NB_PAR_LABEL_MAX)
-#             print("Répartition :")
-#             print(sampling_strategy)
-#             self.__XX=self.__X.reshape(-1,1)
-#             self.__yy=self.__y.reshape(-1,1)
-#             rUs = RandomUnderSampler(sampling_strategy=sampling_strategy)
-#             X_ru, y_ru = rUs.fit_resample(self.__XX, self.__yy  )
-#        else:
-#            X_ru = self.__X.copy()
-#            y_ru = self.__y.copy()
-#            
-#        X_train_ru, X_test_path, y_train_ru, y_test = train_test_split(X_ru, y_ru, train_size=train_size,
-#                                    random_state=random_state, stratify=y_ru,shuffle=True)
-#        
-#        if RandomOverSampl :
-#            print("Ramdom over sampling : MIN ",self._NB_PAR_LABEL_MIN) 
-#            sampling_strategy = self.__get_strategie_min(y_train_ru,self._NB_PAR_LABEL_MIN)
-#            print("Répartition :")
-#            print(sampling_strategy)
-#            rOs = RandomOverSampler(sampling_strategy=sampling_strategy)
-#            X_train_path, y_train = rOs.fit_resample(X_train_ru, y_train_ru)
-#            X_train_path, y_train = shuffle(X_train_path, y_train, random_state=42)
-#        else:
-#            X_train_path = X_train_ru.copy()
-#            y_train = y_train_ru.copy
-#
-#        X_train_path=X_train_path.reshape(-1,)
-#        X_test_path=X_test_path.reshape(-1,)
-#        ds.save_ndarray(X_train_path,self.__nom_modele+'_X_train')
-#        ds.save_ndarray(X_test_path,self.__nom_modele+'_X_test')
-#            
-#        return X_train_path,X_test_path,y_train,y_test
-#                
+         
      #     Train       : "None" , "Save"  , "Load" ,"Weight"        =>   "Save" : on enregistre les données d'entrainement
      #                                                              =>   "Load" : on charge les données d'entrainement      
      #        
@@ -180,8 +141,10 @@ class DS_CNN(ds.DS_Model):
         print("Train_Test_Split_2",y_train_avant[:5])
       
         X_train = np.array(X_train_avant['filepath'])
+        self.__X_train_concate = X_train 
         print(X_train.shape)
         X_test = np.array(X_test_avant['filepath'])
+        self.__X_test_concate = X_test 
         y_train = np.array(y_train_avant)
         print(X_test.shape)
         y_test = np.array(y_test_avant )
@@ -189,6 +152,8 @@ class DS_CNN(ds.DS_Model):
         y_train=y_train.reshape(-1,1)
         X_test=X_test.reshape(-1,1)
         y_test=y_test.reshape(-1,1)
+        self.__y_train_concate = y_train
+        self.__y_test_concate = y_test 
         print(X_train[:5])
        
         if RandUnderSampl :
@@ -404,6 +369,7 @@ class DS_CNN(ds.DS_Model):
         predictions = model.predict(dataset_test)
         
         feature_model_cnn = Model(inputs=model.input, outputs=model.layers[-2].output)
+        dataset_train,dataset_test = self.generate_dataset(self.__X_train_concate,self.__X_test_concate,self.__y_train_concate,self.__y_test_concate) 
         x_train_cnn = feature_model_cnn.predict(dataset_train)
         x_test_cnn = feature_model_cnn.predict(dataset_test)
         

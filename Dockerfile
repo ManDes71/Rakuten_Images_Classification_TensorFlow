@@ -1,5 +1,5 @@
 # Base officielle TensorFlow GPU
-FROM tensorflow/tensorflow:2.14.0-gpu
+FROM tensorflow/tensorflow:2.16.1-gpu
 
 # Crée un répertoire de travail dans le conteneur
 WORKDIR /workspace

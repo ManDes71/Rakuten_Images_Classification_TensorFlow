@@ -1,7 +1,15 @@
+import os
+import warnings
+
+# Réduire les warnings
+warnings.filterwarnings('ignore')
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # 0=all, 1=info, 2=warning, 3=error
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import os
 
 
 from sklearn.model_selection import train_test_split
@@ -25,20 +33,22 @@ import json
 #def get_pickle_version():
 #    return configparser.__v
 
-
+# Chemin absolu du projet
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 config = configparser.ConfigParser()
-#config.read('Rakuten_config_colab.ini')   # Colab
-config.read('D:/Manuel/PROJET/Rakuten_Images_Classification_TensorFlow/Rakuten_config.ini')   # Colab
+# Chemin du fichier config dans le conteneur Docker
+config_file = os.path.join(project_root, 'Rakuten_config.ini')
+config.read(config_file)
 
 def get_RACINE_DOSSIER() :
-    return config['DOSSIER']['RACINE_DOSSIER']
+    return os.path.join(project_root, config['DOSSIER']['RACINE_DOSSIER'].strip())
     
 def get_RACINE_IMAGES() :
-    return config['DOSSIER']['RACINE_IMAGES']    
+    return os.path.join(project_root, config['DOSSIER']['RACINE_IMAGES'].strip())
     
 def get_RACINE_SAUVEGARDE() :
-    return config['DOSSIER']['RACINE_SAUVEGARDE']
+    return os.path.join(project_root, config['DOSSIER']['RACINE_SAUVEGARDE'].strip())
 
 #print(get_RACINE_DOSSIER())
 #print( get_RACINE_IMAGES())
@@ -78,10 +88,14 @@ def load_dataframe(name_sav) :
     df = pd.read_csv(get_RACINE_DOSSIER() + name_sav)    
     return df
 def save_model(model,name_sav) :
-    print(get_RACINE_DOSSIER() + name_sav+'.h5')
-    model.save_weights(get_RACINE_DOSSIER() + name_sav+'.h5')
-def load_model(model,name_sav) :
-    model.load_weights(get_RACINE_DOSSIER() + name_sav+'.h5')    
+    filepath = get_RACINE_SAUVEGARDE() + name_sav + '.keras'
+    print(filepath)
+    model.save(filepath)
+    
+def load_model(name_sav) :
+    from tensorflow import keras
+    filepath = get_RACINE_SAUVEGARDE() + name_sav + '.keras'
+    return keras.models.load_model(filepath)    
     
     
 def joblib_dump(model,name_sav) :

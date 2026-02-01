@@ -23,6 +23,13 @@ Copiez ce lien complet (avec le token)
 Ouvrez-le dans votre navigateur Windows (Chrome, Firefox, Edge...)
 JupyterLab s'ouvre et vous pouvez travailler sur les notebooks
 
+> Upload the image data folder set directly on local from https://challengedata.ens.fr/participants/challenges/35/, you should save the folders image_train and image_test respecting the following structure
+
+    ├── data
+    │   └── raw           
+    |   |  ├── image_train 
+    |   |  ├── image_test 
+
 # ***PROJET RAKUTEN***  
 
 ## **1) Description du projet**  

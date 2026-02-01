@@ -35,7 +35,8 @@ checkpoints/
 *.npz
 
 # Images (sauf si besoin)
-data/images/
+data/
+images/
 *.jpg
 *.jpeg
 *.png
@@ -43,16 +44,20 @@ data/images/
 *.bmp
 *.tiff
 
+# Images Readme
+images_readme/
+
 # Datasets
 input/
 input-*/
 *.zip
 *.tar.gz
 
-# Model outputs
-fichiers/*.h5
-fichiers/*.csv
-fichiers/*.pkl
+# Model outputs - exclude entire directory
+fichiers/
+
+# BFG tool
+bfg.jar
 
 # IDE
 .vscode/

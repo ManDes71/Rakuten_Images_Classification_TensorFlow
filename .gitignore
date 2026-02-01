@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_temp
+
+# TensorFlow / Keras
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.weights
+saved_model/
+checkpoints/
+
+# Data files
+*.csv
+!requirements.txt
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Images (sauf si besoin)
+data/images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Datasets
+input/
+input-*/
+*.zip
+*.tar.gz
+
+# Model outputs
+fichiers/*.h5
+fichiers/*.csv
+fichiers/*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker
+*.env
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -1,3 +1,28 @@
+
+
+# **🔧 Configuration WSL + Docker**
+## **1. Prérequis**
+
+Docker Desktop pour Windows avec l'intégration WSL2 activée
+Support GPU optionnel (nécessite WSL2 + NVIDIA drivers + CUDA)
+## **2. Lancer le projet**
+
+Dans votre terminal WSL :
+```
+docker build -t tensorflow-keras-gpu .
+chmod +x run.sh
+./run.sh
+```
+## **3. Accéder à JupyterLab depuis Windows**
+
+Une fois le conteneur lancé, vous verrez dans le terminal un message comme :
+
+http://127.0.0.1:8888/lab?token=xxxxxxxxxxxxx
+
+Copiez ce lien complet (avec le token)
+Ouvrez-le dans votre navigateur Windows (Chrome, Firefox, Edge...)
+JupyterLab s'ouvre et vous pouvez travailler sur les notebooks
+
 # ***PROJET RAKUTEN***  
 
 ## **1) Description du projet**  

@@ -62,6 +62,11 @@ input-*/
 # Model outputs - exclude entire directory
 fichiers/
 
+# Exceptions : fichiers de résultats à versionner
+!fichiers/df_accuracy.csv
+!fichiers/df_report.csv
+!fichiers/df_val_accuracy.csv
+
 # BFG tool
 bfg.jar
 

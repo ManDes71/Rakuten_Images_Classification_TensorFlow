@@ -1,0 +1,1401 @@
+,Unnamed: 0.2,Unnamed: 0.1,Epoch,accuracy,programme,libelle,id
+0,0.0,0.0,1,0.1396859288215637,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+1,1.0,1.0,2,0.1868736892938614,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+2,2.0,2.0,3,0.2059517502784729,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+3,3.0,3.0,4,0.2209960222244262,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+4,4.0,4.0,5,0.2345942109823227,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+5,5.0,5.0,6,0.244209349155426,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+6,6.0,6.0,7,0.2506279051303863,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+7,7.0,7.0,8,0.2589238286018371,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+8,8.0,8.0,9,0.2653169929981231,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+9,9.0,9.0,10,0.2707968652248382,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+10,10.0,10.0,11,0.2754141688346863,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+11,11.0,11.0,12,0.282999724149704,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+12,12.0,12.0,13,0.2860694527626037,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+13,13.0,13.0,14,0.2890377342700958,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+14,14.0,14.0,15,0.2962934672832489,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+15,15.0,15.0,16,0.3005048632621765,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+16,16.0,16.0,17,0.3050460517406463,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+17,17.0,17.0,18,0.3075069189071655,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+18,18.0,18.0,19,0.315777450799942,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+19,19.0,19.0,20,0.3151685893535614,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+20,20.0,20.0,21,0.3215110301971435,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+21,21.0,21.0,22,0.3252911269664764,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+22,22.0,22.0,23,0.3301367461681366,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+23,23.0,23.0,24,0.331278383731842,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+24,24.0,24.0,25,0.3355405032634735,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+25,25.0,25.0,26,0.3410203754901886,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+26,26.0,26.0,27,0.3410457372665405,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+27,27.0,27.0,28,0.3459928333759308,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+28,28.0,28.0,29,0.3513458669185638,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+29,29.0,29.0,30,0.3575614690780639,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+30,30.0,30.0,31,0.3592104911804199,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+31,31.0,31.0,32,0.3621280193328857,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+32,32.0,32.0,33,0.3666438460350036,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+33,33.0,33.0,34,0.3698404133319855,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+34,34.0,34.0,35,0.3753202855587005,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+35,35.0,35.0,36,0.3747875392436981,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+36,36.0,36.0,37,0.3813582956790924,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+37,37.0,37.0,38,0.3839206397533417,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+38,38.0,38.0,39,0.387193351984024,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+39,39.0,39.0,40,0.3940178155899048,Modele_IMG_Reseau_images_undersampling,undersampling max 2400,UNDER01
+40,40.0,40.0,1,0.0839330330491066,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+41,41.0,41.0,2,0.129081130027771,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+42,42.0,42.0,3,0.1480190902948379,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+43,43.0,43.0,4,0.1611241549253463,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+44,44.0,44.0,5,0.176804780960083,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+45,45.0,45.0,6,0.187107041478157,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+46,46.0,46.0,7,0.1948337256908416,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+47,47.0,47.0,8,0.2012726366519928,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+48,48.0,48.0,9,0.2064237594604492,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+49,49.0,49.0,10,0.2136959284543991,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+50,50.0,50.0,11,0.2195288240909576,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+51,51.0,51.0,12,0.2289220541715622,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+52,52.0,52.0,13,0.2293008118867874,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+53,53.0,53.0,14,0.2373305112123489,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+54,54.0,54.0,15,0.239224299788475,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+55,55.0,55.0,16,0.2470267415046692,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+56,56.0,56.0,17,0.25020831823349,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+57,57.0,57.0,18,0.2541474103927612,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+58,58.0,58.0,19,0.257328987121582,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+59,59.0,59.0,20,0.2629346251487732,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+60,60.0,60.0,21,0.2715703248977661,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+61,61.0,61.0,22,0.2735398709774017,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+62,62.0,62.0,23,0.2808878123760223,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+63,63.0,63.0,24,0.2833118736743927,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+64,64.0,64.0,25,0.2920233309268951,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+65,65.0,65.0,26,0.2924020886421203,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+66,66.0,66.0,27,0.2959624230861664,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+67,67.0,67.0,28,0.3030073344707489,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+68,68.0,68.0,29,0.3066434264183044,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+69,69.0,69.0,30,0.310431033372879,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+70,70.0,70.0,31,0.3167941868305206,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+71,71.0,71.0,32,0.3221725523471832,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+72,72.0,72.0,33,0.3279297053813934,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+73,73.0,73.0,34,0.3264904320240021,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+74,74.0,74.0,35,0.3362624049186706,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+75,75.0,75.0,36,0.3363381624221802,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+76,76.0,76.0,37,0.3431558310985565,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+77,77.0,77.0,38,0.3523218035697937,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+78,78.0,78.0,39,0.3539125919342041,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+79,79.0,79.0,40,0.3577001690864563,IMG_Reseau_images_undersampling_ecretage,undersampling max 764,UNDER03
+80,80.0,80.0,1,0.0908491238951683,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+81,81.0,81.0,2,0.1473729610443115,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+82,82.0,82.0,3,0.1708907335996627,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+83,83.0,83.0,4,0.1848441064357757,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+84,84.0,84.0,5,0.1965141892433166,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+85,85.0,85.0,6,0.2026283144950866,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+86,86.0,86.0,7,0.2115077227354049,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+87,87.0,87.0,8,0.2181292325258255,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+88,88.0,88.0,9,0.2238881736993789,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+89,89.0,89.0,10,0.2275414168834686,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+90,90.0,90.0,11,0.2366491556167602,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+91,91.0,91.0,12,0.2434736341238021,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+92,92.0,92.0,13,0.2463657855987548,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+93,93.0,93.0,14,0.2511352896690368,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+94,94.0,94.0,15,0.2555496394634247,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+95,95.0,95.0,16,0.2599385976791382,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+96,96.0,96.0,17,0.2650379240512848,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+97,97.0,97.0,18,0.2681330442428589,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+98,98.0,98.0,19,0.2718116641044616,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+99,99.0,99.0,20,0.274602323770523,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+100,100.0,100.0,21,0.2785346508026123,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+101,101.0,101.0,22,0.2819595634937286,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+102,102.0,102.0,23,0.2874901592731476,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+103,103.0,103.0,24,0.2885303199291229,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+104,104.0,104.0,25,0.2902808487415313,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+105,105.0,105.0,26,0.2951011061668396,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+106,106.0,106.0,27,0.2950249910354614,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+107,107.0,107.0,28,0.3028388619422912,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+108,108.0,108.0,29,0.3041073679924011,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+109,109.0,109.0,30,0.3071770966053009,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+110,110.0,110.0,31,0.3098155558109283,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+111,111.0,111.0,32,0.3113631308078766,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+112,112.0,112.0,33,0.3134941756725311,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+113,113.0,113.0,34,0.3155491352081299,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+114,114.0,114.0,35,0.3222721219062805,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+115,115.0,115.0,36,0.3260268270969391,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+116,116.0,116.0,37,0.328157901763916,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+117,117.0,117.0,38,0.3308217227458954,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+118,118.0,118.0,39,0.3352614343166351,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+119,119.0,119.0,40,0.3389400541782379,IMG_Reseau_images_undersampling_weight,undersampling max 2400 class_weight,UNDER02
+120,120.0,120.0,1,0.196666419506073,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+121,121.0,121.0,2,0.2469746619462967,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+122,122.0,122.0,3,0.2685389518737793,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+123,123.0,123.0,4,0.2823147475719452,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+124,124.0,124.0,5,0.2934520542621612,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+125,125.0,125.0,6,0.3042595982551574,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+126,126.0,126.0,7,0.3206738233566284,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+127,127.0,127.0,8,0.325012058019638,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+128,128.0,128.0,9,0.3325468599796295,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+129,129.0,129.0,10,0.3471852242946625,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+130,130.0,130.0,11,0.3581449687480926,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+131,131.0,131.0,12,0.3692315518856048,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+132,132.0,132.0,13,0.3754978775978088,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+133,133.0,133.0,14,0.3875485062599182,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+134,134.0,134.0,15,0.395971268415451,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+135,135.0,135.0,16,0.4053327143192291,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+136,136.0,136.0,17,0.4117512702941894,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+137,137.0,137.0,18,0.4236243367195129,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+138,138.0,138.0,19,0.4347362816333771,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+139,139.0,139.0,20,0.4421442449092865,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+140,140.0,140.0,21,0.450998306274414,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+141,141.0,141.0,22,0.4578734934329986,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+142,142.0,142.0,23,0.4654844403266907,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+143,143.0,143.0,24,0.4756069779396057,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+144,144.0,144.0,25,0.4835223257541656,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+145,145.0,145.0,26,0.4900423586368561,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+146,146.0,146.0,27,0.4989471435546875,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+147,147.0,147.0,28,0.5043255686759949,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+148,148.0,148.0,29,0.5164269208908081,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+149,149.0,149.0,30,0.515589714050293,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+150,150.0,150.0,31,0.5258137583732605,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+151,151.0,151.0,32,0.5332724452018738,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+152,152.0,152.0,33,0.5479361414909363,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+153,153.0,153.0,34,0.5516401529312134,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+154,154.0,154.0,35,0.5548874735832214,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+155,155.0,155.0,36,0.5662024021148682,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+156,156.0,156.0,37,0.5702362060546875,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+157,157.0,157.0,38,0.5788111686706543,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+158,158.0,158.0,39,0.5825151801109314,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+159,159.0,159.0,40,0.5887561440467834,IMG_Reseau_Images_undersampling_BatchNormalization,undersampling max 2400 avec BatchNormalization,UNDER04
+160,160.0,160.0,1,0.1419438272714615,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+161,161.0,161.0,2,0.1920491158962249,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+162,162.0,162.0,3,0.2089200019836425,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+163,163.0,163.0,4,0.2256133109331131,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+164,164.0,164.0,5,0.2353299409151077,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+165,165.0,165.0,6,0.2438541799783706,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+166,166.0,166.0,7,0.2508562207221985,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+167,167.0,167.0,8,0.2566405236721039,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+168,168.0,168.0,9,0.2644290626049042,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+169,169.0,169.0,10,0.2692493200302124,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+170,170.0,170.0,11,0.2785600125789642,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+171,171.0,171.0,12,0.2822893559932709,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+172,172.0,172.0,13,0.28612020611763,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+173,173.0,173.0,14,0.2926148474216461,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+174,174.0,174.0,15,0.2976634502410888,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+175,175.0,175.0,16,0.3031433224678039,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+176,176.0,176.0,17,0.3081918954849243,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+177,177.0,177.0,18,0.3122256994247436,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+178,178.0,178.0,19,0.3138239979743957,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+179,179.0,179.0,20,0.3175533413887024,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+180,180.0,180.0,21,0.322627305984497,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+181,181.0,181.0,22,0.3288428783416748,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+182,182.0,182.0,23,0.3292234241962433,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+183,183.0,183.0,24,0.3325468599796295,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+184,184.0,184.0,25,0.335286796092987,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+185,185.0,185.0,26,0.3425425589084625,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+186,186.0,186.0,27,0.345307856798172,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+187,187.0,187.0,28,0.3500012755393982,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+188,188.0,188.0,29,0.3538320958614349,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+189,189.0,189.0,30,0.3560646474361419,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+190,190.0,190.0,31,0.3583986461162567,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+191,191.0,191.0,32,0.3632950186729431,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+192,192.0,192.0,33,0.3677600920200348,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+193,193.0,193.0,34,0.3698911666870117,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+194,194.0,194.0,35,0.3728086948394775,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+195,195.0,195.0,36,0.3778826296329498,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+196,196.0,196.0,37,0.380343496799469,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+197,197.0,197.0,38,0.3829312324523926,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+198,198.0,198.0,39,0.3889946043491363,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+199,199.0,199.0,40,0.3903138339519501,IMG_Reseau_Images_undersampling_L2,undersampling max 2400 L2=0.0001,UNDER06
+200,200.0,200.0,1,0.1404216438531875,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+201,201.0,201.0,2,0.1893091797828674,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+202,202.0,202.0,3,0.2046832591295242,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+203,203.0,203.0,4,0.220869168639183,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+204,204.0,204.0,5,0.2287084311246872,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+205,205.0,205.0,6,0.2374610006809234,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+206,206.0,206.0,7,0.2430930882692337,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+207,207.0,207.0,8,0.2483953684568405,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+208,208.0,208.0,9,0.2547885477542877,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+209,209.0,209.0,10,0.2576299607753753,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+210,210.0,210.0,11,0.2619935572147369,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+211,211.0,211.0,12,0.2652662694454193,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+212,212.0,212.0,13,0.2663825154304504,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+213,213.0,213.0,14,0.2701372504234314,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+214,214.0,214.0,15,0.2730801403522491,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+215,215.0,215.0,16,0.2728010714054107,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+216,216.0,216.0,17,0.2724205255508423,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+217,217.0,217.0,18,0.2763528525829315,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+218,218.0,218.0,19,0.2758961915969848,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+219,219.0,219.0,20,0.2758708298206329,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+220,220.0,220.0,21,0.276987075805664,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+221,221.0,221.0,22,0.2755410075187683,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+222,222.0,222.0,23,0.277621328830719,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+223,223.0,223.0,24,0.2760737836360931,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+224,224.0,224.0,25,0.2724966406822204,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+225,225.0,225.0,26,0.2743993699550628,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+226,226.0,226.0,27,0.2737651169300079,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+227,227.0,227.0,28,0.2756171226501465,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+228,228.0,228.0,29,0.2751604616641998,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+229,229.0,229.0,30,0.2732323706150055,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+230,230.0,230.0,31,0.2735368013381958,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+231,231.0,231.0,32,0.2738919854164123,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+232,232.0,232.0,33,0.2767080068588257,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+233,233.0,233.0,34,0.2764796912670135,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+234,234.0,234.0,35,0.2764035761356354,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+235,235.0,235.0,36,0.2739427089691162,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+236,236.0,236.0,37,0.2748560309410095,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+237,237.0,237.0,38,0.2767080068588257,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+238,238.0,238.0,39,0.276987075805664,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+239,239.0,239.0,40,0.2811223566532135,IMG_Reseau_Images_undersampling_L1,undersampling max 2400 L1=0.0001,UNDER05
+240,240.0,240.0,1,0.3286414742469787,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+241,241.0,241.0,2,0.453505277633667,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+242,242.0,242.0,3,0.4948011338710785,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+243,243.0,243.0,4,0.5163912177085876,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+244,244.0,244.0,5,0.5358245372772217,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+245,245.0,245.0,6,0.5517616868019104,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+246,246.0,246.0,7,0.5652697086334229,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+247,247.0,247.0,8,0.5777788162231445,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+248,248.0,248.0,9,0.5918770432472229,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+249,249.0,249.0,10,0.6017072200775146,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+250,250.0,250.0,11,0.6136033535003662,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+251,251.0,251.0,12,0.6242508292198181,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+252,252.0,252.0,13,0.6334453225135803,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+253,253.0,253.0,14,0.6419360637664795,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+254,254.0,254.0,15,0.6549445986747742,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+255,255.0,255.0,16,0.6612558960914612,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+256,256.0,256.0,17,0.6706547141075134,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+257,257.0,257.0,18,0.6807346343994141,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+258,258.0,258.0,19,0.6908599734306335,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+259,259.0,259.0,20,0.7007355690002441,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+260,260.0,260.0,21,0.7085452079772949,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+261,261.0,261.0,22,0.724459707736969,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+262,262.0,262.0,23,0.731270432472229,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+263,263.0,263.0,24,0.7370141744613647,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+264,264.0,264.0,25,0.744347095489502,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+265,265.0,265.0,26,0.7496821880340576,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+266,266.0,266.0,27,0.7604431509971619,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+267,267.0,267.0,28,0.7657101154327393,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+268,268.0,268.0,29,0.7713630795478821,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+269,269.0,269.0,30,0.7791045904159546,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+270,270.0,270.0,31,0.7824872732162476,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+271,271.0,271.0,32,0.7877542972564697,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+272,272.0,272.0,33,0.793066680431366,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+273,273.0,273.0,34,0.7966763377189636,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+274,274.0,274.0,35,0.7990828156471252,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+275,275.0,275.0,36,0.8014665842056274,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+276,276.0,276.0,37,0.806847095489502,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+277,277.0,277.0,38,0.8124318718910217,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+278,278.0,278.0,39,0.81229567527771,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+279,279.0,279.0,40,0.815882682800293,Modele_IMG_Reseau_RGB,efficientNet RGB max 2500 lr=0.01->0.0042 DR20-20,CNN03
+280,280.0,280.0,1,0.394749641418457,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+281,281.0,281.0,2,0.5017385482788086,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+282,282.0,282.0,3,0.5372218489646912,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+283,283.0,283.0,4,0.5614221096038818,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+284,284.0,284.0,5,0.5788073539733887,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+285,285.0,285.0,6,0.5943498015403748,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+286,286.0,286.0,7,0.6056328415870667,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+287,287.0,287.0,8,0.6156119704246521,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+288,288.0,288.0,9,0.6272426843643188,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+289,289.0,289.0,10,0.6389256119728088,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+290,290.0,290.0,11,0.6476529836654663,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+291,291.0,291.0,12,0.6606919169425964,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+292,292.0,292.0,13,0.6691411733627319,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+293,293.0,293.0,14,0.6777294874191284,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+294,294.0,294.0,15,0.6867698431015015,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+295,295.0,295.0,16,0.6971140503883362,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+296,296.0,296.0,17,0.7031815052032471,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+297,297.0,297.0,18,0.7160813808441162,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+298,298.0,298.0,19,0.7232614755630493,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+299,299.0,299.0,20,0.7318497896194458,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+300,300.0,300.0,21,0.7404206991195679,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+301,301.0,301.0,22,0.7509040236473083,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+302,302.0,302.0,23,0.7614220976829529,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+303,303.0,303.0,24,0.7685848474502563,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+304,304.0,304.0,25,0.7759214043617249,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+305,305.0,305.0,26,0.7781988978385925,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+306,306.0,306.0,27,0.7873261570930481,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+307,307.0,307.0,28,0.7944715023040771,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+308,308.0,308.0,29,0.7999652028083801,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+309,309.0,309.0,30,0.8063977956771851,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+310,310.0,310.0,31,0.8106745481491089,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+311,311.0,311.0,32,0.8148991465568542,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+312,312.0,312.0,33,0.8218880295753479,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+313,313.0,313.0,34,0.8239742517471313,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+314,314.0,314.0,35,0.8259561657905579,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+315,315.0,315.0,36,0.830354630947113,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+316,316.0,316.0,37,0.8341272473335266,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+317,317.0,317.0,38,0.8395166993141174,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+318,318.0,318.0,39,0.844714879989624,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+319,319.0,319.0,40,0.844036877155304,Modele_IMG_Reseau_RGB,efficientNet RGB max 4000 lr=0.01->0.0042 DR20-20,CNN05
+320,320.0,320.0,1,0.0460406839847564,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+321,321.0,321.0,2,0.0659053772687912,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+322,322.0,322.0,3,0.0838630571961402,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+323,323.0,323.0,4,0.0963721424341201,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+324,324.0,324.0,5,0.1092444583773613,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+325,325.0,325.0,6,0.1228432655334472,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+326,326.0,326.0,7,0.1389620453119278,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+327,327.0,327.0,8,0.1541046202182769,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+328,328.0,328.0,9,0.1728795915842056,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+329,329.0,329.0,10,0.1956956088542938,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+330,330.0,330.0,11,0.2184662222862243,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+331,331.0,331.0,12,0.246140569448471,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+332,332.0,332.0,13,0.2663004100322723,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+333,333.0,333.0,14,0.2890710234642029,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+334,334.0,334.0,15,0.312023252248764,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+335,335.0,335.0,16,0.3341808915138244,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+336,336.0,336.0,17,0.3553850352764129,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+337,337.0,337.0,18,0.3795177936553955,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+338,338.0,338.0,19,0.4051035344600677,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+339,339.0,339.0,20,0.4305984377861023,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+340,340.0,340.0,21,0.4587722420692444,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+341,341.0,341.0,22,0.4856520295143127,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+342,342.0,342.0,23,0.5076961517333984,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+343,343.0,343.0,24,0.5277197360992432,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+344,344.0,344.0,25,0.5475390553474426,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+345,345.0,345.0,26,0.5691972374916077,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+346,346.0,346.0,27,0.5948283672332764,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+347,347.0,347.0,28,0.6126271486282349,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+348,348.0,348.0,29,0.6280421614646912,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+349,349.0,349.0,30,0.6452279090881348,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+350,350.0,350.0,31,0.6608245372772217,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+351,351.0,351.0,32,0.6795541048049927,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+352,352.0,352.0,33,0.6915410757064819,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+353,353.0,353.0,34,0.7009171843528748,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+354,354.0,354.0,35,0.7156965136528015,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+355,355.0,355.0,36,0.7259580492973328,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+356,356.0,356.0,37,0.7393752336502075,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+357,357.0,357.0,38,0.7478205561637878,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+358,358.0,358.0,39,0.753382682800293,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+359,359.0,359.0,40,0.7655966281890869,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR10,CNN04
+360,360.0,360.0,1,0.0627270266413688,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+361,361.0,361.0,2,0.0829095542430877,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+362,362.0,362.0,3,0.1005948036909103,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+363,363.0,363.0,4,0.117576278746128,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+364,364.0,364.0,5,0.1359880119562149,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+365,365.0,365.0,6,0.1550127118825912,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+366,366.0,366.0,7,0.1727660745382309,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+367,367.0,367.0,8,0.1939929127693176,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+368,368.0,368.0,9,0.2102252095937729,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+369,369.0,369.0,10,0.2285234332084655,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+370,370.0,370.0,11,0.2466854304075241,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+371,371.0,371.0,12,0.2631901502609253,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+372,372.0,372.0,13,0.2783554196357727,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+373,373.0,373.0,14,0.2927715182304382,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+374,374.0,374.0,15,0.3093897700309753,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+375,375.0,375.0,16,0.3226253092288971,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+376,376.0,376.0,17,0.3377678990364074,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+377,377.0,377.0,18,0.3531374931335449,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+378,378.0,378.0,19,0.363262802362442,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+379,379.0,379.0,20,0.3781783580780029,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+380,380.0,380.0,21,0.3947284817695617,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+381,381.0,381.0,22,0.4076007902622223,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+382,382.0,382.0,23,0.4252633452415466,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+383,383.0,383.0,24,0.4377270340919494,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+384,384.0,384.0,25,0.4575236141681671,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+385,385.0,385.0,26,0.4727343022823334,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+386,386.0,386.0,27,0.4897157549858093,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+387,387.0,387.0,28,0.503382682800293,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+388,388.0,388.0,29,0.5136442184448242,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+389,389.0,389.0,30,0.5281056761741638,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+390,390.0,390.0,31,0.5423401594161987,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+391,391.0,391.0,32,0.5537822246551514,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+392,392.0,392.0,33,0.5639756917953491,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+393,393.0,393.0,34,0.5741236805915833,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+394,394.0,394.0,35,0.586837112903595,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+395,395.0,395.0,36,0.5955094695091248,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+396,396.0,396.0,37,0.6080866456031799,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+397,397.0,397.0,38,0.6122639179229736,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+398,398.0,398.0,39,0.621208667755127,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+399,399.0,399.0,40,0.6307664513587952,Modele_Img_Reseau_RGB_personnalise,modele perso RGB max 2500 lr=0.0001 DR20,CNN06
+400,400.0,400.0,1,0.0595445074141025,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+401,401.0,401.0,2,0.0625869259238243,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+402,402.0,402.0,3,0.0757475644350051,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+403,403.0,403.0,4,0.1054415851831436,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+404,404.0,404.0,5,0.1334840059280395,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+405,405.0,405.0,6,0.1673157215118408,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+406,406.0,406.0,7,0.1974617540836334,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+407,407.0,407.0,8,0.2292593866586685,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+408,408.0,408.0,9,0.2528164088726043,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+409,409.0,409.0,10,0.275608479976654,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+410,410.0,410.0,11,0.297983318567276,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+411,411.0,411.0,12,0.3201842904090881,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+412,412.0,412.0,13,0.3386822044849396,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+413,413.0,413.0,14,0.3573192059993744,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+414,414.0,414.0,15,0.3811369836330414,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+415,415.0,415.0,16,0.4024513065814972,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+416,416.0,416.0,17,0.4272600710391998,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+417,417.0,417.0,18,0.4528685808181762,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+418,418.0,418.0,19,0.4789116680622101,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+419,419.0,419.0,20,0.5096140503883362,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+420,420.0,420.0,21,0.533605694770813,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+421,421.0,421.0,22,0.5646209716796875,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+422,422.0,422.0,23,0.5946105718612671,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+423,423.0,423.0,24,0.6239742636680603,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+424,424.0,424.0,25,0.6503998637199402,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+425,425.0,425.0,26,0.6787726283073425,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+426,426.0,426.0,27,0.7057023644447327,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+427,427.0,427.0,28,0.7289811968803406,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+428,428.0,428.0,29,0.748104989528656,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+429,429.0,429.0,30,0.7707579731941223,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+430,430.0,430.0,31,0.7846661806106567,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+431,431.0,431.0,32,0.7969923615455627,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+432,432.0,432.0,33,0.812534749507904,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+433,433.0,433.0,34,0.8199408650398254,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+434,434.0,434.0,35,0.8307892680168152,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+435,435.0,435.0,36,0.8369958400726318,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+436,436.0,436.0,37,0.843567430973053,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+437,437.0,437.0,38,0.849391520023346,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+438,438.0,438.0,39,0.8482093214988708,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+439,439.0,439.0,40,0.8506606221199036,Model_img_reseau_RGB_personnalise_Gener_L1,modele perso RGB max 4000 Generation l1=0.001 DR10,CNN07
+440,440.0,440.0,1,0.0643925592303276,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+441,441.0,441.0,2,0.0822778865694999,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+442,442.0,442.0,3,0.1003250628709793,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+443,443.0,443.0,4,0.1300125420093536,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+444,444.0,444.0,5,0.1680357158184051,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+445,445.0,445.0,6,0.1963339149951934,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+446,446.0,446.0,7,0.2213814556598663,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+447,447.0,447.0,8,0.2465773820877075,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+448,448.0,448.0,9,0.265137106180191,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+449,449.0,449.0,10,0.2826852202415466,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+450,450.0,450.0,11,0.3005975186824798,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+451,451.0,451.0,12,0.3153805732727051,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+452,452.0,452.0,13,0.3325375318527221,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+453,453.0,453.0,14,0.3483456671237945,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+454,454.0,454.0,15,0.3618878126144409,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+455,455.0,455.0,16,0.37990802526474,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+456,456.0,456.0,17,0.3942863941192627,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+457,457.0,457.0,18,0.4097034037113189,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+458,458.0,458.0,19,0.4256059527397156,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+459,459.0,459.0,20,0.4424391984939575,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+460,460.0,460.0,21,0.4597984850406647,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+461,461.0,461.0,22,0.4761866331100464,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+462,462.0,462.0,23,0.4936942756175995,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+463,463.0,463.0,24,0.5105544924736023,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+464,464.0,464.0,25,0.5317309498786926,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+465,465.0,465.0,26,0.5484158396720886,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+466,466.0,466.0,27,0.5653974413871765,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+467,467.0,467.0,28,0.5830804109573364,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+468,468.0,468.0,29,0.6009792685508728,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+469,469.0,469.0,30,0.6182441115379333,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+470,470.0,470.0,31,0.6353066563606262,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+471,471.0,471.0,32,0.6525850296020508,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+472,472.0,472.0,33,0.6695935726165771,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+473,473.0,473.0,34,0.685806393623352,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+474,474.0,474.0,35,0.7004950046539307,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+475,475.0,475.0,36,0.7170989513397217,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+476,476.0,476.0,37,0.7293597459793091,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+477,477.0,477.0,38,0.7417688369750977,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+478,478.0,478.0,39,0.7567542195320129,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+479,479.0,479.0,40,0.7687182426452637,Model_img_reseau_RGB_personnalise_Gener_L2,modele perso RGB max 5000 Generation l1=0.01 DR10,CNN08
+480,480.0,480.0,1,0.2966680526733398,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+481,481.0,481.0,2,0.4297686815261841,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+482,482.0,482.0,3,0.4742668271064758,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+483,483.0,483.0,4,0.5064587593078613,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+484,484.0,484.0,5,0.5292239785194397,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+485,485.0,485.0,6,0.550739586353302,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+486,486.0,486.0,7,0.5695793032646179,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+487,487.0,487.0,8,0.5862185955047607,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+488,488.0,488.0,9,0.5983346700668335,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+489,489.0,489.0,10,0.6144985556602478,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+490,490.0,490.0,11,0.6249439716339111,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+491,491.0,491.0,12,0.636897087097168,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+492,492.0,492.0,13,0.6485241651535034,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+493,493.0,493.0,14,0.6572988629341125,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+494,494.0,494.0,15,0.6696051359176636,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+495,495.0,495.0,16,0.6769263744354248,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+496,496.0,496.0,17,0.6862443685531616,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+497,497.0,497.0,18,0.6938645243644714,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+498,498.0,498.0,19,0.7013623714447021,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+499,499.0,499.0,20,0.7121201753616333,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+500,500.0,500.0,21,0.7260020971298218,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+501,501.0,501.0,22,0.7299683094024658,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+502,502.0,502.0,23,0.7398160696029663,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+503,503.0,503.0,24,0.7438774108886719,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+504,504.0,504.0,25,0.7454258799552917,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+505,505.0,505.0,26,0.7539153099060059,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+506,506.0,506.0,27,0.7564960718154907,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+507,507.0,507.0,28,0.7588866949081421,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+508,508.0,508.0,29,0.7610464096069336,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+509,509.0,509.0,30,0.7672674655914307,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+510,510.0,510.0,31,0.7675391435623169,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+511,511.0,511.0,32,0.7707175612449646,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+512,512.0,512.0,33,0.7715461254119873,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+513,513.0,513.0,34,0.7738552689552307,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+514,514.0,514.0,35,0.7745479941368103,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+515,515.0,515.0,36,0.7748196721076965,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+516,516.0,516.0,37,0.7741405367851257,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+517,517.0,517.0,38,0.7736651301383972,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+518,518.0,518.0,39,0.7765990495681763,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+519,519.0,519.0,40,0.7767212986946106,Model_Img_Reseau_RGB_VGG16_V01,VGG16 Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-NORM-CC1024-40,CNN10
+520,520.0,520.0,1,0.4119386970996856,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+521,521.0,521.0,2,0.5110352635383606,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+522,522.0,522.0,3,0.5502107739448547,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+523,523.0,523.0,4,0.5744361877441406,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+524,524.0,524.0,5,0.5927591323852539,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+525,525.0,525.0,6,0.6095027923583984,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+526,526.0,526.0,7,0.6236632466316223,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+527,527.0,527.0,8,0.6350264549255371,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+528,528.0,528.0,9,0.6462022066116333,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+529,529.0,529.0,10,0.6556246876716614,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+530,530.0,530.0,11,0.6674295663833618,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+531,531.0,531.0,12,0.6724352240562439,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+532,532.0,532.0,13,0.6814026832580566,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+533,533.0,533.0,14,0.6899685263633728,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+534,534.0,534.0,15,0.696807861328125,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+535,535.0,535.0,16,0.703901469707489,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+536,536.0,536.0,17,0.7120926380157471,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+537,537.0,537.0,18,0.7172187566757202,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+538,538.0,538.0,19,0.7223984599113464,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+539,539.0,539.0,20,0.7302951216697693,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+540,540.0,540.0,21,0.7330522537231445,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+541,541.0,541.0,22,0.7480425834655762,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+542,542.0,542.0,23,0.754560649394989,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+543,543.0,543.0,24,0.7585357427597046,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+544,544.0,544.0,25,0.7620424032211304,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+545,545.0,545.0,26,0.7699123024940491,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+546,546.0,546.0,27,0.7724018096923828,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+547,547.0,547.0,28,0.7747440338134766,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+548,548.0,548.0,29,0.7777286767959595,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+549,549.0,549.0,30,0.7834303379058838,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+550,550.0,550.0,31,0.7866960763931274,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+551,551.0,551.0,32,0.7917152047157288,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+552,552.0,552.0,33,0.7937897443771362,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+553,553.0,553.0,34,0.7969751358032227,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+554,554.0,554.0,35,0.7981529831886292,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+555,555.0,555.0,36,0.8042293787002563,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+556,556.0,556.0,37,0.8037475943565369,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+557,557.0,557.0,38,0.8027704954147339,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+558,558.0,558.0,39,0.8091012239456177,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+559,559.0,559.0,40,0.8082312941551208,Model_Img_Reseau_EfficientNetB1_V01,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze DR50-CC1024-NORM-CC1024-DR40-BATCH16,CNN01
+560,560.0,560.0,1,0.4058890342712402,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+561,561.0,561.0,2,0.4837850332260132,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+562,562.0,562.0,3,0.5151442289352417,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+563,563.0,563.0,4,0.5348858833312988,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+564,564.0,564.0,5,0.5532088279724121,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+565,565.0,565.0,6,0.5675835013389587,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+566,566.0,566.0,7,0.5798701643943787,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+567,567.0,567.0,8,0.5886769890785217,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+568,568.0,568.0,9,0.6016596555709839,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+569,569.0,569.0,10,0.6078832745552063,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+570,570.0,570.0,11,0.6146556735038757,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+571,571.0,571.0,12,0.6222177743911743,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+572,572.0,572.0,13,0.6279595494270325,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+573,573.0,573.0,14,0.6320417523384094,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+574,574.0,574.0,15,0.6383724808692932,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+575,575.0,575.0,16,0.6424412727355957,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+576,576.0,576.0,17,0.6479822993278503,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+577,577.0,577.0,18,0.66180819272995,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+578,578.0,578.0,19,0.6687813401222229,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+579,579.0,579.0,20,0.6718865036964417,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+580,580.0,580.0,21,0.6737602949142456,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+581,581.0,581.0,22,0.679702877998352,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+582,582.0,582.0,23,0.6819246411323547,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+583,583.0,583.0,24,0.6845077872276306,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+584,584.0,584.0,25,0.6936224102973938,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+585,585.0,585.0,26,0.6954025030136108,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+586,586.0,586.0,27,0.6960985064506531,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+587,587.0,587.0,28,0.6986548900604248,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+588,588.0,588.0,29,0.701010525226593,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+589,589.0,589.0,30,0.703901469707489,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+590,590.0,590.0,31,0.7062169313430786,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+591,591.0,591.0,32,0.7053470015525818,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+592,592.0,592.0,33,0.7088536620140076,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+593,593.0,593.0,34,0.7091079354286194,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+594,594.0,594.0,35,0.7082915306091309,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+595,595.0,595.0,36,0.710593581199646,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+596,596.0,596.0,37,0.7099645137786865,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+597,597.0,597.0,38,0.7118517160415649,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+598,598.0,598.0,39,0.7117847800254822,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+599,599.0,599.0,40,0.7118918299674988,Model_Img_Reseau_RGB_EfficientNetB1_V02,EfficientNetB1 Adam 4000-2000 SIZE400 DeFreeze  POOL-DR40-CC1024-NORM-CC1024-DR40- BATCH16,CNN02
+600,600.0,600.0,1,0.4230341911315918,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+601,601.0,601.0,2,0.5374957919120789,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+602,602.0,602.0,3,0.5843940377235413,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+603,603.0,603.0,4,0.6162617802619934,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+604,604.0,604.0,5,0.6443150639533997,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+605,605.0,605.0,6,0.669236421585083,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+606,606.0,606.0,7,0.6880278587341309,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+607,607.0,607.0,8,0.707368016242981,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+608,608.0,608.0,9,0.7234825491905212,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+609,609.0,609.0,10,0.7384594678878784,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+610,610.0,610.0,11,0.7516696453094482,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+611,611.0,611.0,12,0.7732182145118713,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+612,612.0,612.0,13,0.7853710651397705,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+613,613.0,613.0,14,0.796252429485321,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+614,614.0,614.0,15,0.807709276676178,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+615,615.0,615.0,16,0.8102790713310242,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+616,616.0,616.0,17,0.8166499137878418,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+617,617.0,617.0,18,0.8221374750137329,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+618,618.0,618.0,19,0.8249213695526123,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+619,619.0,619.0,20,0.8265140652656555,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+620,620.0,620.0,21,0.8301144242286682,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+621,621.0,621.0,22,0.8324165344238281,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+622,622.0,622.0,23,0.8349059820175171,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+623,623.0,623.0,24,0.8374088406562805,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+624,624.0,624.0,25,0.8361640572547913,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+625,625.0,625.0,26,0.8362577557563782,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+626,626.0,626.0,27,0.8365254402160645,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+627,627.0,627.0,28,0.8374356031417847,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+628,628.0,628.0,29,0.8386133909225464,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+629,629.0,629.0,30,0.8395770788192749,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+630,630.0,630.0,31,0.8394432067871094,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+631,631.0,631.0,32,0.839697539806366,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+632,632.0,632.0,33,0.8387070894241333,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+633,633.0,633.0,34,0.839483380317688,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+634,634.0,634.0,35,0.8395234942436218,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+635,635.0,635.0,36,0.8383992314338684,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+636,636.0,636.0,37,0.8384527564048767,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+637,637.0,637.0,38,0.839148759841919,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+638,638.0,638.0,39,0.8404604196548462,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+639,639.0,639.0,40,0.8393762707710266,Model_Img_Reseau_InceptionV3_V03,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43 DR40-CC1024-NORM-1024-DR40 - BATCH16,CNN22
+640,640.0,640.0,1,0.4321220517158508,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+641,641.0,641.0,2,0.5393160581588745,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+642,642.0,642.0,3,0.5902027487754822,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+643,643.0,643.0,4,0.6225389838218689,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+644,644.0,644.0,5,0.6513684988021851,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+645,645.0,645.0,6,0.6716455817222595,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+646,646.0,646.0,7,0.6938499808311462,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+647,647.0,647.0,8,0.7127216458320618,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+648,648.0,648.0,9,0.7357425093650818,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+649,649.0,649.0,10,0.7477614879608154,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+650,650.0,650.0,11,0.7574917674064636,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+651,651.0,651.0,12,0.7690557241439819,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+652,652.0,652.0,13,0.7832563519477844,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+653,653.0,653.0,14,0.7891855835914612,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+654,654.0,654.0,15,0.7934149503707886,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+655,655.0,655.0,16,0.7988088130950928,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+656,656.0,656.0,17,0.8013919591903687,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+657,657.0,657.0,18,0.8058890104293823,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+658,658.0,658.0,19,0.8071203827857971,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+659,659.0,659.0,20,0.8107207417488098,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+660,660.0,660.0,21,0.8112426996231079,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+661,661.0,661.0,22,0.8105735182762146,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+662,662.0,662.0,23,0.8127818703651428,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+663,663.0,663.0,24,0.8158736228942871,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+664,664.0,664.0,25,0.8177608251571655,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+665,665.0,665.0,26,0.8172388076782227,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+666,666.0,666.0,27,0.815351665019989,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+667,667.0,667.0,28,0.8186575770378113,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+668,668.0,668.0,29,0.8175466656684875,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+669,669.0,669.0,30,0.8164491653442383,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+670,670.0,670.0,31,0.8179214000701904,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+671,671.0,671.0,32,0.8169443607330322,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+672,672.0,672.0,33,0.8195944428443909,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+673,673.0,673.0,34,0.8176805377006531,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+674,674.0,674.0,35,0.8163554668426514,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+675,675.0,675.0,36,0.8178143501281738,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+676,676.0,676.0,37,0.8168238997459412,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+677,677.0,677.0,38,0.8195676803588867,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+678,678.0,678.0,39,0.8187646269798279,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+679,679.0,679.0,40,0.8185504674911499,Model_Img_Reseau_InceptionV3_V04,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR30 - BATCH16,CNN23
+680,680.0,680.0,1,0.4293783009052276,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+681,681.0,681.0,2,0.5392223596572876,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+682,682.0,682.0,3,0.5874456167221069,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+683,683.0,683.0,4,0.6214414834976196,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+684,684.0,684.0,5,0.6477681994438171,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+685,685.0,685.0,6,0.6690624356269836,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+686,686.0,686.0,7,0.6926721334457397,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+687,687.0,687.0,8,0.7115036845207214,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+688,688.0,688.0,9,0.7252225279808044,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+689,689.0,689.0,10,0.7496888041496277,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+690,690.0,690.0,11,0.763648509979248,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+691,691.0,691.0,12,0.7722813487052917,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+692,692.0,692.0,13,0.7843003273010254,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+693,693.0,693.0,14,0.7891319990158081,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+694,694.0,694.0,15,0.7974436283111572,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+695,695.0,695.0,16,0.8045774102210999,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+696,696.0,696.0,17,0.806879460811615,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+697,697.0,697.0,18,0.8106270432472229,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+698,698.0,698.0,19,0.812955915927887,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+699,699.0,699.0,20,0.8143746256828308,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+700,700.0,700.0,21,0.8162216544151306,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+701,701.0,701.0,22,0.8159405589103699,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+702,702.0,702.0,23,0.8186976909637451,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+703,703.0,703.0,24,0.8170915842056274,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+704,704.0,704.0,25,0.8213745355606079,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+705,705.0,705.0,26,0.8218162059783936,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+706,706.0,706.0,27,0.8209195137023926,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+707,707.0,707.0,28,0.8199558258056641,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+708,708.0,708.0,29,0.8222043514251709,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+709,709.0,709.0,30,0.8227664828300476,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+710,710.0,710.0,31,0.8228468298912048,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+711,711.0,711.0,32,0.8245867490768433,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+712,712.0,712.0,33,0.8212540745735168,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+713,713.0,713.0,34,0.8217493295669556,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+714,714.0,714.0,35,0.8230475783348083,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+715,715.0,715.0,36,0.8227263689041138,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+716,716.0,716.0,37,0.8230341672897339,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+717,717.0,717.0,38,0.821213960647583,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+718,718.0,718.0,39,0.8228334188461304,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+719,719.0,719.0,40,0.8242387771606445,Model_Img_Reseau_InceptionV3_V5,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR30-CC1024-NORM-512-256-DR30 - BATCH16,CNN24
+720,720.0,720.0,1,0.4059024155139923,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+721,721.0,721.0,2,0.521461546421051,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+722,722.0,722.0,3,0.5681991577148438,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+723,723.0,723.0,4,0.6003345847129822,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+724,724.0,724.0,5,0.6244797110557556,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+725,725.0,725.0,6,0.6461353302001953,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+726,726.0,726.0,7,0.6660376191139221,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+727,727.0,727.0,8,0.6843203902244568,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+728,728.0,728.0,9,0.6973967552185059,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+729,729.0,729.0,10,0.7117312550544739,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+730,730.0,730.0,11,0.7236967086791992,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+731,731.0,731.0,12,0.7445894479751587,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+732,732.0,732.0,13,0.7563006281852722,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+733,733.0,733.0,14,0.7629659175872803,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+734,734.0,734.0,15,0.7726427316665649,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+735,735.0,735.0,16,0.7761359810829163,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+736,736.0,736.0,17,0.7807401418685913,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+737,737.0,737.0,18,0.7874991297721863,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+738,738.0,738.0,19,0.7916883826255798,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+739,739.0,739.0,20,0.7924513220787048,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+740,740.0,740.0,21,0.7971224188804626,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+741,741.0,741.0,22,0.7970019578933716,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+742,742.0,742.0,23,0.7976577877998352,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+743,743.0,743.0,24,0.8006959557533264,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+744,744.0,744.0,25,0.799906313419342,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+745,745.0,745.0,26,0.8028508424758911,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+746,746.0,746.0,27,0.7995047569274902,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+747,747.0,747.0,28,0.8026500344276428,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+748,748.0,748.0,29,0.8002409338951111,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+749,749.0,749.0,30,0.8014053106307983,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+750,750.0,750.0,31,0.8024225234985352,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+751,751.0,751.0,32,0.8005086183547974,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+752,752.0,752.0,33,0.8022887110710144,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+753,753.0,753.0,34,0.8028641939163208,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+754,754.0,754.0,35,0.8004684448242188,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+755,755.0,755.0,36,0.8040152788162231,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+756,756.0,756.0,37,0.8024760484695435,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+757,757.0,757.0,38,0.8035735487937927,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+758,758.0,758.0,39,0.8039884567260742,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+759,759.0,759.0,40,0.8047379851341248,Model_Img_Reseau_InceptionV3_V01,InceptionV3 Adam 4000-2000 SIZE400 DeFreeze 43  DR40-CC1024-NORM-CC512-DR40- BATCH32,CNN20
+760,760.0,760.0,1,0.3957839906215668,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+761,761.0,761.0,2,0.5071538686752319,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+762,762.0,762.0,3,0.5550960302352905,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+763,763.0,763.0,4,0.5805125832557678,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+764,764.0,764.0,5,0.6072542071342468,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+765,765.0,765.0,6,0.6282540559768677,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+766,766.0,766.0,7,0.6495482921600342,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+767,767.0,767.0,8,0.6624104976654053,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+768,768.0,768.0,9,0.6904637813568115,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+769,769.0,769.0,10,0.7046376466751099,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+770,770.0,770.0,11,0.7148765325546265,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+771,771.0,771.0,12,0.7264404892921448,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+772,772.0,772.0,13,0.7342836260795593,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+773,773.0,773.0,14,0.7397443652153015,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+774,774.0,774.0,15,0.7454861998558044,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+775,775.0,775.0,16,0.7501438856124878,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+776,776.0,776.0,17,0.7495415806770325,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+777,777.0,777.0,18,0.7548015713691711,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+778,778.0,778.0,19,0.7564210891723633,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+779,779.0,779.0,20,0.7567021250724792,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+780,780.0,780.0,21,0.7603694200515747,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+781,781.0,781.0,22,0.7593655586242676,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+782,782.0,782.0,23,0.7601552605628967,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+783,783.0,783.0,24,0.7647861838340759,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+784,784.0,784.0,25,0.7630730271339417,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+785,785.0,785.0,26,0.7612929344177246,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+786,786.0,786.0,27,0.7632737755775452,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+787,787.0,787.0,28,0.7619353532791138,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+788,788.0,788.0,29,0.7641437649726868,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+789,789.0,789.0,30,0.7665261030197144,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+790,790.0,790.0,31,0.7649735808372498,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+791,791.0,791.0,32,0.7649199962615967,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+792,792.0,792.0,33,0.7654821872711182,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+793,793.0,793.0,34,0.7660844326019287,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+794,794.0,794.0,35,0.7649199962615967,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+795,795.0,795.0,36,0.764478325843811,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+796,796.0,796.0,37,0.7620959877967834,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+797,797.0,797.0,38,0.7660041451454163,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+798,798.0,798.0,39,0.7640634179115295,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+799,799.0,799.0,40,0.7645184993743896,Model_Img_Reseau_InceptionV3_V02,InceptionV3 Adam 4000-2000 SIZE400  DeFreeze 43 DR30-CC1024-CC512-DR30 - BATCH16,CNN21
+800,800.0,800.0,1,0.2693836688995361,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+801,801.0,801.0,2,0.4219233095645904,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+802,802.0,802.0,3,0.4787525832653045,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+803,803.0,803.0,4,0.516241729259491,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+804,804.0,804.0,5,0.5473599433898926,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+805,805.0,805.0,6,0.5750117301940918,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+806,806.0,806.0,7,0.5948336720466614,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+807,807.0,807.0,8,0.6141872406005859,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+808,808.0,808.0,9,0.6298869252204895,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+809,809.0,809.0,10,0.6474335789680481,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+810,810.0,810.0,11,0.6649936437606812,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+811,811.0,811.0,12,0.6792210340499878,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+812,812.0,812.0,13,0.6933814883232117,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+813,813.0,813.0,14,0.7063508033752441,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+814,814.0,814.0,15,0.7189854979515076,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+815,815.0,815.0,16,0.7381248474121094,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+816,816.0,816.0,17,0.7446697354316711,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+817,817.0,817.0,18,0.7508800029754639,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+818,818.0,818.0,19,0.7619219422340393,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+819,819.0,819.0,20,0.7665930390357971,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+820,820.0,820.0,21,0.769791841506958,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+821,821.0,821.0,22,0.7753061652183533,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+822,822.0,822.0,23,0.7763233780860901,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+823,823.0,823.0,24,0.7783443927764893,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+824,824.0,824.0,25,0.7823997735977173,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+825,825.0,825.0,26,0.7828949689865112,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+826,826.0,826.0,27,0.7842200398445129,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+827,827.0,827.0,28,0.7840326428413391,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+828,828.0,828.0,29,0.7851301431655884,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+829,829.0,829.0,30,0.7844341993331909,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+830,830.0,830.0,31,0.7862410545349121,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+831,831.0,831.0,32,0.7853041291236877,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+832,832.0,832.0,33,0.786334753036499,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+833,833.0,833.0,34,0.7856655120849609,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+834,834.0,834.0,35,0.7866425514221191,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+835,835.0,835.0,36,0.7873117923736572,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+836,836.0,836.0,37,0.7867897748947144,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+837,837.0,837.0,38,0.7869771718978882,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+838,838.0,838.0,39,0.7869102358818054,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+839,839.0,839.0,40,0.7866559624671936,Model_Img_Reseau_RGB_RESNET50_V01,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR30-CC1024-NORM-CC512-DR30 BATCH 32,CNN30
+840,840.0,840.0,1,0.3995449244976043,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+841,841.0,841.0,2,0.5068995356559753,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+842,842.0,842.0,3,0.548417329788208,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+843,843.0,843.0,4,0.5771397948265076,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+844,844.0,844.0,5,0.5989560484886169,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+845,845.0,845.0,6,0.6181222200393677,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+846,846.0,846.0,7,0.6381449699401855,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+847,847.0,847.0,8,0.6536304354667664,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+848,848.0,848.0,9,0.6697182655334473,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+849,849.0,849.0,10,0.6796761155128479,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+850,850.0,850.0,11,0.6916148066520691,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+851,851.0,851.0,12,0.7022552490234375,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+852,852.0,852.0,13,0.7107943296432495,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+853,853.0,853.0,14,0.7213009595870972,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+854,854.0,854.0,15,0.7285685539245605,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+855,855.0,855.0,16,0.7592183351516724,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+856,856.0,856.0,17,0.7735661864280701,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+857,857.0,857.0,18,0.7841932773590088,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+858,858.0,858.0,19,0.8040688037872314,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+859,859.0,859.0,20,0.8129960298538208,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+860,860.0,860.0,21,0.8207588791847229,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+861,861.0,861.0,22,0.8320016264915466,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+862,862.0,862.0,23,0.8351870179176331,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+863,863.0,863.0,24,0.8404604196548462,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+864,864.0,864.0,25,0.8456534743309021,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+865,865.0,865.0,26,0.8516897559165955,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+866,866.0,866.0,27,0.8500568866729736,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+867,867.0,867.0,28,0.8547547459602356,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+868,868.0,868.0,29,0.8569630980491638,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+869,869.0,869.0,30,0.857752799987793,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+870,870.0,870.0,31,0.8595194816589355,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+871,871.0,871.0,32,0.8595061302185059,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+872,872.0,872.0,33,0.8599745631217957,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+873,873.0,873.0,34,0.8591179847717285,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+874,874.0,874.0,35,0.8609248399734497,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+875,875.0,875.0,36,0.8604028820991516,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+876,876.0,876.0,37,0.8615137338638306,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+877,877.0,877.0,38,0.8619420528411865,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+878,878.0,878.0,39,0.8619955778121948,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+879,879.0,879.0,40,0.8621160387992859,Model_Img_Reseau_RGB_RESNET50_V02,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 30 DR40-CC1024-NORM-CC512-DR40 BATCH 32,CNN31
+880,880.0,880.0,1,0.4249079823493957,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+881,881.0,881.0,2,0.53944993019104,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+882,882.0,882.0,3,0.5871779322624207,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+883,883.0,883.0,4,0.6245867609977722,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+884,884.0,884.0,5,0.654620885848999,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+885,885.0,885.0,6,0.6830087900161743,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+886,886.0,886.0,7,0.70632404088974,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+887,887.0,887.0,8,0.7235093116760254,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+888,888.0,888.0,9,0.7431707382202148,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+889,889.0,889.0,10,0.7589372992515564,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+890,890.0,890.0,11,0.8082446455955505,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+891,891.0,891.0,12,0.8292711973190308,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+892,892.0,892.0,13,0.8430970907211304,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+893,893.0,893.0,14,0.8715786337852478,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+894,894.0,894.0,15,0.8856722116470337,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+895,895.0,895.0,16,0.8945593237876892,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+896,896.0,896.0,17,0.9088937640190125,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+897,897.0,897.0,18,0.9177005887031556,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+898,898.0,898.0,19,0.92338889837265,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+899,899.0,899.0,20,0.9304423332214355,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+900,900.0,900.0,21,0.9326507449150084,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+901,901.0,901.0,22,0.9367462992668152,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+902,902.0,902.0,23,0.9406411051750184,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+903,903.0,903.0,24,0.9419795274734496,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+904,904.0,904.0,25,0.9435722231864928,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+905,905.0,905.0,26,0.946182131767273,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+906,906.0,906.0,27,0.947440266609192,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+907,907.0,907.0,28,0.9473198056221008,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+908,908.0,908.0,29,0.9493943452835084,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+909,909.0,909.0,30,0.9503981471061708,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+910,910.0,910.0,31,0.9491668343544006,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+911,911.0,911.0,32,0.9497289657592772,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+912,912.0,912.0,33,0.9498226642608644,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+913,913.0,913.0,34,0.9503446221351624,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+914,914.0,914.0,35,0.9504249691963196,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+915,915.0,915.0,36,0.9496887922286988,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+916,916.0,916.0,37,0.9510138630867004,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+917,917.0,917.0,38,0.9510673880577089,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+918,918.0,918.0,39,0.949675440788269,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+919,919.0,919.0,40,0.950545370578766,Model_Img_Reseau_RGB_RESNET50_V03,RESNET50 Adam 4000-2000 SIZE400 DeFreeze 50 DR40-CC1024-NORM-CC512-DR30 BATCH 32,CNN32
+920,920.0,920.0,1,0.2883490622043609,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+921,921.0,921.0,2,0.4201030433177948,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+922,922.0,922.0,3,0.4658636152744293,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+923,923.0,923.0,4,0.4945994615554809,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+924,924.0,924.0,5,0.5199625492095947,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+925,925.0,925.0,6,0.540560781955719,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+926,926.0,926.0,7,0.5589239001274109,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+927,927.0,927.0,8,0.574730634689331,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+928,928.0,928.0,9,0.5862945914268494,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+929,929.0,929.0,10,0.600521981716156,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+930,930.0,930.0,11,0.613143265247345,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+931,931.0,931.0,12,0.6247339844703674,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+932,932.0,932.0,13,0.6362175941467285,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+933,933.0,933.0,14,0.6463762521743774,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+934,934.0,934.0,15,0.6559593081474304,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+935,935.0,935.0,16,0.6654754877090454,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+936,936.0,936.0,17,0.6727430820465088,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+937,937.0,937.0,18,0.681576669216156,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+938,938.0,938.0,19,0.6895402669906616,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+939,939.0,939.0,20,0.6973164677619934,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+940,940.0,940.0,21,0.7045572996139526,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+941,941.0,941.0,22,0.7113431096076965,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+942,942.0,942.0,23,0.718731164932251,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+943,943.0,943.0,24,0.7336411476135254,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+944,944.0,944.0,25,0.7411764860153198,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+945,945.0,945.0,26,0.7452720403671265,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+946,946.0,946.0,27,0.7504650950431824,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+947,947.0,947.0,28,0.7607307434082031,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+948,948.0,948.0,29,0.7583751678466797,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+949,949.0,949.0,30,0.7629926800727844,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+950,950.0,950.0,31,0.7666064500808716,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+951,951.0,951.0,32,0.7720404267311096,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+952,952.0,952.0,33,0.7693234086036682,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+953,953.0,953.0,34,0.7746369242668152,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+954,954.0,954.0,35,0.7777153253555298,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+955,955.0,955.0,36,0.7746235728263855,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+956,956.0,956.0,37,0.7797631025314331,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+957,957.0,957.0,38,0.7793615460395813,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+958,958.0,958.0,39,0.7809543013572693,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+959,959.0,959.0,40,0.7821455001831055,Model_Img_Reseau_RGB_VGG16_V02,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-DR40-CC1024 - BATCH32,CNN11
+960,960.0,960.0,1,0.3715585768222809,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+961,961.0,961.0,2,0.4733587503433227,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+962,962.0,962.0,3,0.5191193222999573,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+963,963.0,963.0,4,0.5527270436286926,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+964,964.0,964.0,5,0.5792545080184937,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+965,965.0,965.0,6,0.6029177308082581,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+966,966.0,966.0,7,0.6240246295928955,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+967,967.0,967.0,8,0.638559877872467,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+968,968.0,968.0,9,0.6533226370811462,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+969,969.0,969.0,10,0.6670012474060059,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+970,970.0,970.0,11,0.6805460453033447,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+971,971.0,971.0,12,0.715692937374115,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+972,972.0,972.0,13,0.7300140261650085,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+973,973.0,973.0,14,0.7406411170959473,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+974,974.0,974.0,15,0.7501304745674133,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+975,975.0,975.0,16,0.7593387961387634,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+976,976.0,976.0,17,0.7758013606071472,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+977,977.0,977.0,18,0.7873920798301697,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+978,978.0,978.0,19,0.7921702265739441,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+979,979.0,979.0,20,0.7985009551048279,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+980,980.0,980.0,21,0.8080572485923767,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+981,981.0,981.0,22,0.8147092461585999,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+982,982.0,982.0,23,0.8166365623474121,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+983,983.0,983.0,24,0.8181222081184387,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+984,984.0,984.0,25,0.8267282247543335,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+985,985.0,985.0,26,0.8281603455543518,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+986,986.0,986.0,27,0.8288562893867493,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+987,987.0,987.0,28,0.8308639526367188,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+988,988.0,988.0,29,0.8348122835159302,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+989,989.0,989.0,30,0.8362979292869568,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+990,990.0,990.0,31,0.838720440864563,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+991,991.0,991.0,32,0.8375292420387268,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+992,992.0,992.0,33,0.8381984829902649,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+993,993.0,993.0,34,0.8397376537322998,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+994,994.0,994.0,35,0.839603841304779,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+995,995.0,995.0,36,0.8400321006774902,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+996,996.0,996.0,37,0.8413972854614258,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+997,997.0,997.0,38,0.8435789346694946,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+998,998.0,998.0,39,0.8417184948921204,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+999,999.0,999.0,40,0.8421735763549805,Model_Img_Reseau_RGB_VGG16_V03,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4 -  DR40-CC1024-NORM-CC512-DR40 - BATCH32,CNN12
+1000,1000.0,,1,0.4150036871433258,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1001,1001.0,,2,0.5134979486465454,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1002,1002.0,,3,0.5546944737434387,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1003,1003.0,,4,0.5876196026802063,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1004,1004.0,,5,0.6137053966522217,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1005,1005.0,,6,0.6388543248176575,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1006,1006.0,,7,0.6532557010650635,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1007,1007.0,,8,0.6741885542869568,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1008,1008.0,,9,0.6876932382583618,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1009,1009.0,,10,0.7041959166526794,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1010,1010.0,,11,0.7136853337287903,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1011,1011.0,,12,0.7555109262466431,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1012,1012.0,,13,0.7726293206214905,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1013,1013.0,,14,0.7843940258026123,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1014,1014.0,,15,0.7944188117980957,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1015,1015.0,,16,0.8172789812088013,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1016,1016.0,,17,0.8286555409431458,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1017,1017.0,,18,0.8342769145965576,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1018,1018.0,,19,0.8407281041145325,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1019,1019.0,,20,0.851060688495636,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1020,1020.0,,21,0.8559860587120056,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1021,1021.0,,22,0.8594257831573486,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1022,1022.0,,23,0.8645921349525452,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1023,1023.0,,24,0.8684735298156738,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1024,1024.0,,25,0.8740681409835815,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1025,1025.0,,26,0.8759686946868896,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1026,1026.0,,27,0.8767315745353699,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1027,1027.0,,28,0.880131185054779,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1028,1028.0,,29,0.8812554478645325,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1029,1029.0,,30,0.8825671076774597,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1030,1030.0,,31,0.8827812075614929,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1031,1031.0,,32,0.8849494457244873,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1032,1032.0,,33,0.8855651617050171,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1033,1033.0,,34,0.8886702656745911,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1034,1034.0,,35,0.886890172958374,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1035,1035.0,,36,0.8870508074760437,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1036,1036.0,,37,0.8872515559196472,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1037,1037.0,,38,0.8878538608551025,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1038,1038.0,,39,0.888884425163269,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1039,1039.0,,40,0.8873720169067383,Model_Img_Reseau_RGB_VGG16_V04,VGG16 Adam 5000-2000 SIZE400 DeFreeze 4  - BATCH32,CNN13
+1040,1040.0,,1,0.1513618379831314,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1041,1041.0,,2,0.2851368486881256,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1042,1042.0,,3,0.3841397166252136,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1043,1043.0,,4,0.4309977889060974,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1044,1044.0,,5,0.4586227536201477,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1045,1045.0,,6,0.4774677157402038,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1046,1046.0,,7,0.49117311835289,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1047,1047.0,,8,0.5016529560089111,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1048,1048.0,,9,0.5121729373931885,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1049,1049.0,,10,0.518637478351593,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1050,1050.0,,11,0.5254232883453369,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1051,1051.0,,12,0.528367817401886,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1052,1052.0,,13,0.5343906879425049,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1053,1053.0,,14,0.5375493764877319,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1054,1054.0,,15,0.5656829476356506,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1055,1055.0,,16,0.575654149055481,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1056,1056.0,,17,0.5816904306411743,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1057,1057.0,,18,0.584862470626831,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1058,1058.0,,19,0.5917285680770874,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1059,1059.0,,20,0.5934016108512878,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1060,1060.0,,21,0.5971357822418213,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1061,1061.0,,22,0.5999196767807007,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1062,1062.0,,23,0.6017667055130005,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1063,1063.0,,24,0.6182560324668884,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1064,1064.0,,25,0.6241986155509949,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1065,1065.0,,26,0.6258448958396912,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1066,1066.0,,27,0.6311450004577637,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1067,1067.0,,28,0.632697582244873,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1068,1068.0,,29,0.6360034942626953,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1069,1069.0,,30,0.645104706287384,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1070,1070.0,,31,0.6490396857261658,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1071,1071.0,,32,0.6502978205680847,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1072,1072.0,,33,0.6507930159568787,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1073,1073.0,,34,0.6559860706329346,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1074,1074.0,,35,0.6569229960441589,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1075,1075.0,,36,0.6573110818862915,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1076,1076.0,,37,0.6573780179023743,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1077,1077.0,,38,0.6620357036590576,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1078,1078.0,,39,0.6616342067718506,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1079,1079.0,,40,0.6621829271316528,Model_Img_Reseau_RGB_VGG19_V01,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR50-CC1024-CC1024-DR50,CNN15
+1080,1080.0,,1,0.3070333898067474,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1081,1081.0,,2,0.4228066504001617,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1082,1082.0,,3,0.4687947630882263,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1083,1083.0,,4,0.5033125877380371,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1084,1084.0,,5,0.5298534631729126,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1085,1085.0,,6,0.550291121006012,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1086,1086.0,,7,0.5711972117424011,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1087,1087.0,,8,0.586187481880188,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1088,1088.0,,9,0.6036137342453003,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1089,1089.0,,10,0.6186441779136658,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1090,1090.0,,11,0.631198525428772,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1091,1091.0,,12,0.6454660892486572,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1092,1092.0,,13,0.6561065316200256,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1093,1093.0,,14,0.6686073541641235,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1094,1094.0,,15,0.6797296404838562,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1095,1095.0,,16,0.6907983422279358,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1096,1096.0,,17,0.6994044184684753,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1097,1097.0,,18,0.7097905278205872,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1098,1098.0,,19,0.7201900482177734,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1099,1099.0,,20,0.7396372556686401,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1100,1100.0,,21,0.7483102679252625,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1101,1101.0,,22,0.7559258341789246,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1102,1102.0,,23,0.7620022892951965,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1103,1103.0,,24,0.7729907035827637,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1104,1104.0,,25,0.777099609375,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1105,1105.0,,26,0.7823328375816345,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1106,1106.0,,27,0.7843003273010254,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1107,1107.0,,28,0.7893595695495605,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1108,1108.0,,29,0.7926118969917297,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1109,1109.0,,30,0.7930669784545898,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1110,1110.0,,31,0.7953824400901794,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1111,1111.0,,32,0.7998260259628296,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1112,1112.0,,33,0.8019540905952454,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1113,1113.0,,34,0.8013116717338562,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1114,1114.0,,35,0.8012580871582031,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1115,1115.0,,36,0.8043766021728516,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1116,1116.0,,37,0.8054205775260925,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1117,1117.0,,38,0.8042963147163391,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1118,1118.0,,39,0.8052733540534973,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1119,1119.0,,40,0.807214081287384,Model_Img_Reseau_RGB_VGG19_V02,VGG19 Adam 5000-2000 SIZE400 DeFreeze 5  DR40-CC1024-NORM-CC512-DR40,CNN16
+1120,1120.0,,1,0.448142945766449,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1121,1121.0,,2,0.5441745519638062,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1122,1122.0,,3,0.5947400331497192,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1123,1123.0,,4,0.6322692632675171,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1124,1124.0,,5,0.6598942875862122,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1125,1125.0,,6,0.6858194470405579,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1126,1126.0,,7,0.709335446357727,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1127,1127.0,,8,0.7287291884422302,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1128,1128.0,,9,0.7436659336090088,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1129,1129.0,,10,0.7608646154403687,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1130,1130.0,,11,0.7759753465652466,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1131,1131.0,,12,0.8018738031387329,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1132,1132.0,,13,0.8169711232185364,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1133,1133.0,,14,0.8266211748123169,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1134,1134.0,,15,0.8348925709724426,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1135,1135.0,,16,0.8485578298568726,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1136,1136.0,,17,0.8550625443458557,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1137,1137.0,,18,0.860362708568573,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1138,1138.0,,19,0.8647259473800659,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1139,1139.0,,20,0.8709763884544373,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1140,1140.0,,21,0.8736665844917297,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1141,1141.0,,22,0.8767985105514526,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1142,1142.0,,23,0.8785250782966614,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1143,1143.0,,24,0.8833165764808655,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1144,1144.0,,25,0.8834637999534607,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1145,1145.0,,26,0.8849226832389832,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1146,1146.0,,27,0.8860469460487366,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1147,1147.0,,28,0.8869972229003906,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1148,1148.0,,29,0.8895134925842285,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1149,1149.0,,30,0.8905306458473206,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1150,1150.0,,31,0.8903433084487915,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1151,1151.0,,32,0.8915210962295532,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1152,1152.0,,33,0.8915210962295532,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1153,1153.0,,34,0.8901559114456177,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1154,1154.0,,35,0.8911463618278503,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1155,1155.0,,36,0.8921635746955872,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1156,1156.0,,37,0.8949875831604004,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1157,1157.0,,38,0.8924044370651245,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1158,1158.0,,39,0.894626259803772,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1159,1159.0,,40,0.8931673765182495,Model_Img_Reseau_Xception_V02,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC512-NORM-CC512-DR30- BATCH8,CNN41
+1160,1160.0,,1,0.4403265714645386,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1161,1161.0,,2,0.5302951335906982,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1162,1162.0,,3,0.5740346312522888,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1163,1163.0,,4,0.6108813285827637,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1164,1164.0,,5,0.6384260058403015,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1165,1165.0,,6,0.6617680191993713,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1166,1166.0,,7,0.6840393543243408,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1167,1167.0,,8,0.7017734050750732,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1168,1168.0,,9,0.7179548740386963,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1169,1169.0,,10,0.7336143851280212,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1170,1170.0,,11,0.7619085907936096,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1171,1171.0,,12,0.7702870965003967,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1172,1172.0,,13,0.784005880355835,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1173,1173.0,,14,0.7889847755432129,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1174,1174.0,,15,0.8051528930664062,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1175,1175.0,,16,0.8104530572891235,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1176,1176.0,,17,0.8143478631973267,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1177,1177.0,,18,0.8174262046813965,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1178,1178.0,,19,0.8272234201431274,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1179,1179.0,,20,0.8318142294883728,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1180,1180.0,,21,0.8337950706481934,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1181,1181.0,,22,0.8335809111595154,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1182,1182.0,,23,0.8384929299354553,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1183,1183.0,,24,0.8408351540565491,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1184,1184.0,,25,0.8410091400146484,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1185,1185.0,,26,0.8434049487113953,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1186,1186.0,,27,0.8428695797920227,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1187,1187.0,,28,0.8436324596405029,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1188,1188.0,,29,0.8460416197776794,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1189,1189.0,,30,0.8460416197776794,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1190,1190.0,,31,0.8455999493598938,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1191,1191.0,,32,0.8442481160163879,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1192,1192.0,,33,0.8492538332939148,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1193,1193.0,,34,0.8472997546195984,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1194,1194.0,,35,0.849186897277832,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1195,1195.0,,36,0.8481696844100952,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1196,1196.0,,37,0.8481161594390869,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1197,1197.0,,38,0.8461754322052002,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1198,1198.0,,39,0.8490263223648071,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1199,1199.0,,40,0.8491199612617493,Model_Img_Reseau_Xception_V01,Xception Adam 4000-2000 SIZE400 DeFreeze  DR30-CC1024-NORM-CC1024-DR30- BATCH168,CNN40
+1200,1200.0,,1,0.4180686473846435,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1201,1201.0,,2,0.512708306312561,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1202,1202.0,,3,0.5578263998031616,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1203,1203.0,,4,0.5902696847915649,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1204,1204.0,,5,0.6181088089942932,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1205,1205.0,,6,0.6403132081031799,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1206,1206.0,,7,0.6593856811523438,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1207,1207.0,,8,0.6780565977096558,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1208,1208.0,,9,0.6912266612052917,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1209,1209.0,,10,0.707434892654419,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1210,1210.0,,11,0.720725417137146,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1211,1211.0,,12,0.7305493950843811,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1212,1212.0,,13,0.7460349202156067,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1213,1213.0,,14,0.7558857202529907,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1214,1214.0,,15,0.775038480758667,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1215,1215.0,,16,0.7845680117607117,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1216,1216.0,,17,0.7921301126480103,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1217,1217.0,,18,0.8006290793418884,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1218,1218.0,,19,0.8091548085212708,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1219,1219.0,,20,0.8156461119651794,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1220,1220.0,,21,0.817626953125,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1221,1221.0,,22,0.8213210105895996,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1222,1222.0,,23,0.8299537897109985,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1223,1223.0,,24,0.8291641473770142,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1224,1224.0,,25,0.8317607045173645,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1225,1225.0,,26,0.8347052335739136,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1226,1226.0,,27,0.838318943977356,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1227,1227.0,,28,0.8392959833145142,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1228,1228.0,,29,0.8395234942436218,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1229,1229.0,,30,0.8417854309082031,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1230,1230.0,,31,0.8410760760307312,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1231,1231.0,,32,0.8418121933937073,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1232,1232.0,,33,0.8439135551452637,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1233,1233.0,,34,0.8431640267372131,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1234,1234.0,,35,0.8448370695114136,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1235,1235.0,,36,0.8454660773277283,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1236,1236.0,,37,0.8438599705696106,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1237,1237.0,,38,0.8461754322052002,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1238,1238.0,,39,0.8449842929840088,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1239,1239.0,,40,0.8465234637260437,Model_Img_Reseau_Xception_V03,Xception Adam 4000-2000 SIZE400 DeFreeze  DR40-CC512-NORM-CC512-DR40- BATCH8,CNN42
+1240,,,1,0.4291775524616241,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1241,,,2,0.5349795818328857,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1242,,,3,0.5791340470314026,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1243,,,4,0.6112828850746155,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1244,,,5,0.638626754283905,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1245,,,6,0.6645252108573914,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1246,,,7,0.6844408512115479,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1247,,,8,0.7019473910331726,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1248,,,9,0.7183162569999695,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1249,,,10,0.7344040870666504,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1250,,,11,0.7641035914421082,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1251,,,12,0.7753329277038574,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1252,,,13,0.788824200630188,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1253,,,14,0.7946730852127075,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1254,,,15,0.808258056640625,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1255,,,16,0.8159137964248657,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1256,,,17,0.8215217590332031,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1257,,,18,0.8246135115623474,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1258,,,19,0.8330187797546387,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1259,,,20,0.835401177406311,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1260,,,21,0.8397243022918701,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1261,,,22,0.8426554203033447,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1262,,,23,0.8434450626373291,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1263,,,24,0.8483704924583435,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1264,,,25,0.8469517230987549,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1265,,,26,0.8489058613777161,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1266,,,27,0.8512480854988098,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1267,,,28,0.8528274297714233,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1268,,,29,0.8521715998649597,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1269,,,30,0.8531887531280518,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1270,,,31,0.8552231788635254,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1271,,,32,0.8534966111183167,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1272,,,33,0.8557183742523193,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1273,,,34,0.8567489981651306,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1274,,,35,0.8557183742523193,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1275,,,36,0.8578197360038757,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1276,,,37,0.8570969700813293,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1277,,,38,0.8554641008377075,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1278,,,39,0.8552901148796082,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1279,,,40,0.85692298412323,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC1024-DR50- BATCH8,CNN43
+1280,,,1,0.4199692010879516,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1281,,,2,0.5230810642242432,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1282,,,3,0.5621762871742249,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1283,,,4,0.5931205153465271,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1284,,,5,0.6204376816749573,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1285,,,6,0.6411296129226685,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1286,,,7,0.661647617816925,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1287,,,8,0.6780298352241516,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1288,,,9,0.6946396231651306,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1289,,,10,0.7086395025253296,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1290,,,11,0.7241785526275635,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1291,,,12,0.7372549176216125,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1292,,,13,0.7482031583786011,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1293,,,14,0.7727230191230774,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1294,,,15,0.7812620997428894,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1295,,,16,0.791313648223877,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1296,,,17,0.7994779944419861,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1297,,,18,0.8095161318778992,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1298,,,19,0.81639564037323,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1299,,,20,0.8203439712524414,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1300,,,21,0.8245733976364136,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1301,,,22,0.8295121192932129,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1302,,,23,0.8316402435302734,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1303,,,24,0.8320819139480591,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1304,,,25,0.8353744149208069,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1305,,,26,0.840099036693573,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1306,,,27,0.8416649699211121,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1307,,,28,0.8418523669242859,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1308,,,29,0.8444489240646362,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1309,,,30,0.8450645804405212,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1310,,,31,0.8455196619033813,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1311,,,32,0.8467509746551514,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1312,,,33,0.8466439247131348,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1313,,,34,0.8449708819389343,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1314,,,35,0.8478217124938965,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1315,,,36,0.8493742942810059,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1316,,,37,0.84940105676651,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1317,,,38,0.8485043048858643,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1318,,,39,0.851060688495636,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1319,,,40,0.8494813442230225,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400 DeFreeze  DR50-CC1024-CC512-DR50- BATCH8,CNN44
+1320,,,1,0.4248009026050567,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1321,,,2,0.501197874546051,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1322,,,3,0.5318610668182373,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1323,,,4,0.5549220442771912,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1324,,,5,0.5729103684425354,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1325,,,6,0.589011549949646,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1326,,,7,0.6024225354194641,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1327,,,8,0.6144415140151978,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1328,,,9,0.6242387890815735,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1329,,,10,0.6384126543998718,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1330,,,11,0.6481831073760986,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1331,,,12,0.6540319919586182,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1332,,,13,0.6623703241348267,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1333,,,14,0.6716857552528381,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1334,,,15,0.6782573461532593,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1335,,,16,0.6847487092018127,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1336,,,17,0.6917486190795898,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1337,,,18,0.6987351775169373,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1338,,,19,0.7039951682090759,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1339,,,20,0.7118383049964905,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1340,,,21,0.7168038487434387,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1341,,,22,0.721126914024353,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1342,,,23,0.7245532870292664,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1343,,,24,0.7461286187171936,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1344,,,25,0.7537843585014343,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1345,,,26,0.758428692817688,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1346,,,27,0.7658033967018127,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1347,,,28,0.7749581933021545,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1348,,,29,0.7763099670410156,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1349,,,30,0.7789600491523743,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1350,,,31,0.784675121307373,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1351,,,32,0.7883155941963196,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1352,,,33,0.7922237515449524,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1353,,,34,0.7921301126480103,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1354,,,35,0.7932008504867554,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1355,,,36,0.7956768870353699,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1356,,,37,0.7968145608901978,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1357,,,38,0.7999464273452759,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1358,,,39,0.8021548390388489,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+1359,,,40,0.7998795509338379,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC512-DR50- BATCH8,CNN45
+0,,,1,0.4388275444507599,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+1,,,2,0.5165762901306152,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+2,,,3,0.5494746565818787,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+3,,,4,0.5738740563392639,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+4,,,5,0.594378650188446,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+5,,,6,0.6112025380134583,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+6,,,7,0.6231278777122498,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+7,,,8,0.6398313641548157,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+8,,,9,0.6519975662231445,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+9,,,10,0.661647617816925,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+10,,,11,0.6729705929756165,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+11,,,12,0.6824600100517273,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+12,,,13,0.6925516724586487,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+13,,,14,0.717566728591919,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+14,,,15,0.724780797958374,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+15,,,16,0.7345245480537415,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+16,,,17,0.7410426139831543,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+17,,,18,0.7453255653381348,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+18,,,19,0.7511878609657288,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+19,,,20,0.7571437954902649,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+20,,,21,0.7612125873565674,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+21,,,22,0.775038480758667,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+22,,,23,0.7808338403701782,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+23,,,24,0.7853175401687622,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+24,,,25,0.7843137383460999,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+25,,,26,0.7939503192901611,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+26,,,27,0.7966673374176025,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+27,,,28,0.796346127986908,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+28,,,29,0.8009235262870789,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+29,,,30,0.8042829632759094,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+30,,,31,0.8055812120437622,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+31,,,32,0.8080706596374512,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+32,,,33,0.8067589998245239,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+33,,,34,0.8083785176277161,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+34,,,35,0.8110954761505127,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+35,,,36,0.8078832626342773,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+36,,,37,0.8104664087295532,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+37,,,38,0.8128622174263,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+38,,,39,0.8116308450698853,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46
+39,,,40,0.8110553622245789,Model_Img_Reseau_Xception_V04,Xception Adam 4000-2000 SIZE400   DR50-CC1024-CC1024-DR50- BATCH8,CNN46

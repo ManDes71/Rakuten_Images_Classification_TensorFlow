@@ -49,6 +49,9 @@ data/
 !data/images/image_train/image_1000076039_product_580161.jpg
 !data/images/image_train/image_1000089455_product_348990858.jpg
 
+# Exceptions : images de documentation README
+!images/ReadMe/*.png
+
 # Images Readme
 images_readme/
 

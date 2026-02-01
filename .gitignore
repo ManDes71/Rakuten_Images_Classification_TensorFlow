@@ -37,7 +37,7 @@ checkpoints/
 
 # Images (sauf si besoin)
 data/
-images/Readme/
+#images/Readme/
 *.jpg
 *.jpeg
 *.png

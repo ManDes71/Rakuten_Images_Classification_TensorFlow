@@ -54,6 +54,11 @@ input-*/
 *.zip
 *.tar.gz
 
+# Exceptions : fichiers de configuration à versionner
+!input/NOMENCLATURE.csv
+!input/stopwords_FR_02.csv
+!input/df_langue.csv
+
 # Model outputs - exclude entire directory
 fichiers/
 

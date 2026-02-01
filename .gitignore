@@ -17,6 +17,7 @@ ENV/
 notebooks/Exploration_10_Nettete_images.ipynb
 notebooks/Exploration_11_Nettete_images.ipynb
 
+
 # TensorFlow / Keras
 *.h5
 *.hdf5
@@ -36,7 +37,7 @@ checkpoints/
 
 # Images (sauf si besoin)
 data/
-images/
+images/Readme/
 *.jpg
 *.jpeg
 *.png

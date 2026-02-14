@@ -15,7 +15,7 @@ from tensorflow.keras.applications import ResNet50
 from tensorflow.keras.applications import Xception # TensorFlow ONLY
 from tensorflow.keras.applications import VGG19
 from tensorflow.keras.models import Model, Sequential, load_model
-from tensorflow.keras.layers import Dense, GlobalAveragePooling2D, Dropout, Conv2D, MaxPooling2D, BatchNormalization, LeakyReLU, Flatten
+from tensorflow.keras.layers import Dense, GlobalAveragePooling2D, Dropout, Conv2D, MaxPooling2D, BatchNormalization, LeakyReLU, Flatten, Input
 from tensorflow.keras import callbacks
 from keras.optimizers import Adam
 
@@ -368,10 +368,11 @@ class DS_CNN(ds.DS_Model):
         tvalloss=training_history.history['val_loss']
         predictions = model.predict(dataset_test)
         
-        feature_model_cnn = Model(inputs=model.input, outputs=model.layers[-2].output)
+        #feature_model_cnn = Model(inputs=model.input, outputs=model.layers[-2].output)
+        
         dataset_train,dataset_test = self.generate_dataset(self.__X_train_concate,self.__X_test_concate,self.__y_train_concate,self.__y_test_concate) 
-        x_train_cnn = feature_model_cnn.predict(dataset_train)
-        x_test_cnn = feature_model_cnn.predict(dataset_test)
+        x_train_cnn = model.predict(dataset_train)
+        x_test_cnn = model.predict(dataset_test)
         
         #x_train_list, y_train_list = [], []
         #for x, y in train_dataset_cnn:

@@ -3,7 +3,7 @@
 # **🔧 Configuration WSL + Docker**
 ## **1. Prérequis**
 
-Docker Desktop pour Windows avec l'intégration WSL2 activée
+Docker Desktop pour Windows avec l'intégration WSL2 activée  
 Support GPU optionnel (nécessite WSL2 + NVIDIA drivers + CUDA)
 ## **2. Lancer le projet**
 
@@ -23,10 +23,10 @@ Copiez ce lien complet (avec le token)
 Ouvrez-le dans votre navigateur Windows (Chrome, Firefox, Edge...)
 JupyterLab s'ouvre et vous pouvez travailler sur les notebooks
 
-> Upload the image data folder set directly on local from https://challengedata.ens.fr/participants/challenges/35/, you should save the folders image_train and image_test respecting the following structure
+> Téléchargez le dossier de données d’images et configurez le directement en local depuis https://challengedata.ens.fr/participants/challenges/35/, Vous devez enregistrer les dossiers image_train et image_test en respectant la structure suivante.
 
     ├── data
-    │   └── raw           
+    │   └── images           
     |   |  ├── image_train 
     |   |  ├── image_test 
 

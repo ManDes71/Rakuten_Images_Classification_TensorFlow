@@ -8,6 +8,7 @@ venv/
 env/
 ENV/
 .venv
+.Trash-0/
 
 # Jupyter Notebook
 .ipynb_checkpoints

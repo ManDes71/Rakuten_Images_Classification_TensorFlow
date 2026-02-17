@@ -672,6 +672,8 @@ class DS_Xception(DS_CNN):
         self.set_REPORT_MODELE(nom_modele)
         self.set_REPORT_LIBELLE("DS_Xception 5000-2000 SIZE400 DEFREEZE  DR40-CC1024-CC1024-DR40")
        
+        # Réduit de 8 à 4 pour économiser la mémoire GPU
+        # Si vous continuez à avoir des erreurs Out Of Memory, essayez batch_size=2
         self.set_BATCH_SIZE(8)
         print(self.__base_model.summary())
 
@@ -691,11 +693,14 @@ class DS_Xception(DS_CNN):
         else : 
             print("il y a ",len(self.__base_model.layers)," couches sur ce modèle.")
         model.add(self.__base_model) # Ajout du modèle ResNet50 : 19 couches ,  FREEZE_LAYERS = 15
-        model.add(Flatten())
-        model.add(Dropout(0.5))
+        model.add(GlobalAveragePooling2D())
+        model.add(Dropout(0.4))
         model.add(Dense(1024, activation='relu'))
+        model.add(BatchNormalization())
         model.add(Dense(1024, activation='relu'))
-        model.add(Dropout(0.5))
+        model.add(BatchNormalization())
+        model.add(Dense(512, activation='relu'))
+        model.add(Dropout(0.4))
         model.add(Dense(27, activation='softmax'))
         model.compile(optimizer=Adam(learning_rate=1e-5), loss='categorical_crossentropy', metrics=['accuracy'])    
         

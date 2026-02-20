@@ -1,4 +1,7 @@
-
+## Version 2.0  
+Passage de Tensorflow == 2.15.0 à Tensorflow == 2.16.1  
+Sauvegarde des modèles :  *.h5   ->  *.keras  
+Possibilité de fonctionner sous Docker  
 
 # **🔧 Configuration WSL + Docker**
 ## **1. Prérequis**
